@@ -1,0 +1,254 @@
+@import "tailwindcss";
+
+:root {
+  --mocha-bg: #fdf9f4;
+  --mocha-foreground: #1c1c19;
+  --mocha-primary: #6e4800;
+  --mocha-primary-container: #8e5e01;
+  --mocha-secondary: #795746;
+  --mocha-outline: #d4c4b1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--mocha-bg);
+  color: var(--mocha-foreground);
+  font-family: var(--font-manrope), system-ui, -apple-system, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.font-display {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
+
+.container-page {
+  margin-inline: auto;
+  width: min(1200px, 100% - 2rem);
+}
+
+.grainy-bg {
+  position: relative;
+}
+
+.grainy-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  z-index: 1;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.reveal {
+  opacity: 1;
+  transform: translateY(0);
+  transition: transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.stagger-1 {
+  transition-delay: 0.1s;
+}
+
+.stagger-2 {
+  transition-delay: 0.2s;
+}
+
+.stagger-3 {
+  transition-delay: 0.3s;
+}
+
+.before-after-slider {
+  touch-action: none;
+}
+
+html.motion-enhanced [data-animate].will-animate {
+  opacity: 0;
+  transform: translate3d(0, 48px, 0) scale(0.985);
+  filter: blur(8px);
+  transition:
+    opacity 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.9s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  transition-delay: var(--anim-delay, 0ms);
+}
+
+html.motion-enhanced [data-animate].will-animate.in-view {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+  filter: blur(0);
+}
+
+[data-anim-delay="1"] {
+  --anim-delay: 110ms;
+}
+
+[data-anim-delay="2"] {
+  --anim-delay: 220ms;
+}
+
+[data-anim-delay="3"] {
+  --anim-delay: 320ms;
+}
+
+[data-tilt="card"] {
+  transform-style: preserve-3d;
+  transform: perspective(1200px) rotateX(0deg) rotateY(0deg);
+  transition: transform 260ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform;
+}
+
+[data-tilt="card"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: inherit;
+  background: radial-gradient(
+    520px circle at var(--glow-x, 50%) var(--glow-y, 50%),
+    rgba(255, 255, 255, 0.22),
+    rgba(255, 255, 255, 0) 45%
+  );
+  opacity: 0;
+  transition: opacity 250ms ease;
+}
+
+[data-tilt="card"].is-tilting {
+  transform: perspective(1200px) rotateX(var(--tilt-y, 0deg)) rotateY(var(--tilt-x, 0deg)) translateY(-4px);
+}
+
+[data-tilt="card"].is-tilting::before {
+  opacity: 1;
+}
+
+.hero-stage {
+  --hero-text-progress: 0;
+  --hero-image-progress: 0;
+}
+
+.hero-photo-intro {
+  animation: heroFadeFromTop 1.15s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.hero-copy-intro {
+  animation: heroFadeFromTop 1s cubic-bezier(0.22, 1, 0.36, 1) 120ms both;
+}
+
+.hero-scroll-visual {
+  transform: translate3d(0, calc(var(--hero-image-progress) * -66px), 0) scale(calc(1 + var(--hero-image-progress) * 0.07));
+  opacity: clamp(0, calc(1 - var(--hero-image-progress) * 1.05), 1);
+  transition: transform 0.18s linear, opacity 0.18s linear;
+}
+
+.hero-scroll-copy {
+  transform: translate3d(0, calc(var(--hero-text-progress) * -170px), 0);
+  opacity: clamp(0, calc(1 - var(--hero-text-progress) * 2.5), 1);
+  transition: transform 0.18s linear, opacity 0.18s linear;
+}
+
+.hero-copy-intro-delay-1 {
+  animation: heroFadeFromTop 1s cubic-bezier(0.22, 1, 0.36, 1) 140ms both;
+}
+
+.hero-copy-intro-delay-2 {
+  animation: heroFadeFromTop 1s cubic-bezier(0.22, 1, 0.36, 1) 240ms both;
+}
+
+.before-after-slider .slider-overlay,
+.before-after-slider .slider-divider,
+.before-after-slider .slider-button-wrap {
+  transition:
+    clip-path 860ms cubic-bezier(0.22, 1, 0.36, 1),
+    left 860ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.before-after-slider.is-dragging .slider-overlay,
+.before-after-slider.is-dragging .slider-divider,
+.before-after-slider.is-dragging .slider-button-wrap {
+  transition: none;
+}
+
+.gallery-marquee {
+  overflow: hidden;
+  border-radius: 20px;
+  mask-image: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(0, 0, 0, 1) 8%,
+    rgba(0, 0, 0, 1) 92%,
+    transparent 100%
+  );
+}
+
+.gallery-track {
+  display: flex;
+  width: max-content;
+  gap: 16px;
+  animation: galleryLoop 34s linear infinite;
+}
+
+.gallery-slide {
+  width: clamp(220px, 30vw, 360px);
+  height: clamp(300px, 38vw, 460px);
+  flex: 0 0 auto;
+}
+
+.gallery-marquee:hover .gallery-track {
+  animation-play-state: paused;
+}
+
+.cta-glow {
+  box-shadow: 0 16px 44px -18px rgba(142, 94, 1, 0.85);
+}
+
+@keyframes heroFadeFromTop {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -46px, 0) scale(1.02);
+    filter: blur(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+    filter: blur(0);
+  }
+}
+
+@keyframes galleryLoop {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .gallery-slide {
+    width: clamp(180px, 64vw, 250px);
+    height: clamp(230px, 78vw, 340px);
+  }
+
+  .gallery-track {
+    gap: 12px;
+    animation-duration: 26s;
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "business_name": "Mocha Tans - Spray Tans",
+  "instagram": "https://www.instagram.com/mochatansmtl/",
+  "square_site": "https://mochatansmtl.square.site/",
+  "square_booking": "https://book.squareup.com/appointments/3819thb2v62amp/location/LTQ8SGNBX1WWH/services?buttonTextColor=ffffff&color=8e5e01&locale=fr-CA&referrer=so",
+  "hours": [
+    {
+      "day": "Monday",
+      "hours": "10:00-21:00"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "10:00-21:00"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "10:00-21:00"
+    },
+    {
+      "day": "Thursday",
+      "hours": "10:00-21:00"
+    },
+    {
+      "day": "Friday",
+      "hours": "10:00-21:00"
+    },
+    {
+      "day": "Saturday",
+      "hours": "12:00-17:00"
+    },
+    {
+      "day": "Sunday",
+      "hours": "12:00-17:00"
+    }
+  ],
+  "services_and_prices": [
+    {
+      "name": "Spray tan Mocha rapide",
+      "price_cad": 55,
+      "duration_minutes": 60
+    },
+    {
+      "name": "Spray tan Mocha à domicile",
+      "price_cad": 80,
+      "duration_minutes": 60
+    },
+    {
+      "name": "Spray tan Mocha groupe",
+      "price_cad": 190,
+      "duration_minutes": 240
+    }
+  ],
+  "products_from_pinned_post": {
+    "source_post_code": "DX2DN3HjmS9",
+    "source_caption": "Voici mes produits préférés « spray tan safe » ✨\n\nIl y a tellement de petits détails qui peuvent influencer le résultat d’un spray tan. Pour obtenir un fini uniforme et durable, il est essentiel de bien suivre les recommandations de votre artiste.\n\nAvant la première douche :\n• Évitez tout frottement (vêtements serrés, sacs, peau contre peau) pour ne pas altérer le bronzage\n• Respectez attentivement les étapes de douche indiquées dans votre guide de préparation\n• Rincez toujours vos mains avant le reste du corps, comme recommandé après votre rendez-vous\n• Évitez tout contact avec l’eau durant le temps de pose avant la première douche\n\nPost inspiré de @sprayedbyselina 🤎",
+    "extracted_from_carousel_slides": [
+      "PRODUITS SPRAY TAN SAFE",
+      "Gel de douche",
+      "Lotion corporelle",
+      "Exfoliation"
+    ],
+    "brand_examples_seen": [
+      "NUDA",
+      "Cetaphil",
+      "CeraVe",
+      "Aveeno",
+      "Native"
+    ]
+  },
+  "reviews_and_faq": {
+    "source": {
+      "reviews": "Instagram highlight REVIEWS",
+      "faq": "Instagram highlight FAQ"
+    },
+    "extracted_story_items": 0,
+    "extraction_status": "blocked_for_logged_out_requests",
+    "note": "Public highlight reels were discovered and cover images were downloaded, but underlying story frames/items returned empty or blocked in logged-out API responses during this run."
+  },
+  "contact": {
+    "email": "mochatansmtl@gmail.com",
+    "address": "1200 Rue Gauthier, Longueuil, QC J4T 3N7"
+  },
+  "assets": {
+    "instagram_post_media_files_downloaded": 206,
+    "instagram_highlight_cover_images_downloaded": 18,
+    "instagram_total_files_in_instagram_folder": 224,
+    "square_images_downloaded": 13,
+    "total_files_in_images_all_folder": 213,
+    "images_all_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/all"
+  },
+  "generated_at": "2026-05-17T01:59:25.502Z"
+}

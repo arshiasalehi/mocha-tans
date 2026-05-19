@@ -1,0 +1,12 @@
+.DS_Store
+
+# Python build/cache artifacts
+__pycache__/
+*.py[cod]
+
+# Local extracted Python dependencies
+data/.pydeps/
+
+# Local env files
+.env
+.env.local

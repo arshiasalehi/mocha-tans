@@ -1,0 +1,4189 @@
+{
+  "collected_at": "2026-05-17T01:59:14.168Z",
+  "source_inputs": {
+    "instagram": "https://www.instagram.com/mochatansmtl/",
+    "square_site": "https://mochatansmtl.square.site/"
+  },
+  "business_overview": {
+    "name": "Mocha Tans - Spray Tans",
+    "category": "Beauty, cosmetic & personal care",
+    "bio": "Certified NUDA & Mix Spray Tan Artist\n       HomeBased & Mobile | Montréal | Rive-Sud De Mtl\n       💌Link in my bio to book your tan🍋🌶️",
+    "is_business_account": true,
+    "external_booking_url": "https://mochatansmtl.square.site/",
+    "primary_location_hint": "Montreal / Rive-Sud (from Instagram bio)"
+  },
+  "instagram": {
+    "profile": {
+      "id": "75063714188",
+      "username": "mochatansmtl",
+      "full_name": "Mocha Tans - Spray Tans",
+      "biography": "Certified NUDA & Mix Spray Tan Artist\n       HomeBased & Mobile | Montréal | Rive-Sud De Mtl\n       💌Link in my bio to book your tan🍋🌶️",
+      "category_name": "Beauty, cosmetic & personal care",
+      "is_business_account": true,
+      "is_private": false,
+      "is_verified": false,
+      "followers": 325,
+      "following": 399,
+      "reported_post_count": 100,
+      "profile_pic_url_hd": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-19/610740238_17872347900498189_3065329175035018044_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH-f1xsh5VKfYShHQt52te7-0nwd3n4-z4OM0Tau7NabcG2iqf4Cs1-3XlkP2bEI3s&_nc_ohc=ta6b2axsgxwQ7kNvwFo_XmE&_nc_gid=3KNavZxQ7mQ4YlkCHAO8pQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4WiF3Gu6wlVziO_HHJTprekyolzRpLX0zOj69JZlz8yQ&oe=6A0EEDCC&_nc_sid=8b3546",
+      "external_url": "https://mochatansmtl.square.site/",
+      "highlight_reel_count_reported": 13,
+      "business_contact_method": "UNKNOWN",
+      "business_email": null,
+      "business_phone_number": null
+    },
+    "collection_summary": {
+      "posts_collected_count": 92,
+      "media_files_downloaded": 206,
+      "media_manifest_file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/instagram_media_manifest.json",
+      "note_on_post_count": "Collected 92 visible posts via public feed endpoint; profile reports 100 total posts."
+    },
+    "stories": {
+      "active_story_count": 0,
+      "active_stories": [],
+      "highlight_reel_count_reported": 13,
+      "highlights_endpoint_direct_access": false,
+      "highlights_endpoint_note": "Highlights tray endpoint returned HTML app shell without public highlight JSON in this unauthenticated session."
+    },
+    "posts": [
+      {
+        "id": "3898263501890532981_75063714188",
+        "code": "DYZagBHDjZ1",
+        "permalink": "https://www.instagram.com/p/DYZagBHDjZ1/",
+        "taken_at_unix": 1778929200,
+        "taken_at_iso": "2026-05-16T11:00:00.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Under the sea in curaçao in our beautiful Coco solution🥥☀️\n\n#nudacanada #spraytan #spraytanmtl #mtlsummer #mtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DYZagBHDjZ1__main_image__1.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYZagBHDjZ1__main_image__1.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3896331997546179601_75063714188",
+        "code": "DYSjU7gumwR",
+        "permalink": "https://www.instagram.com/p/DYSjU7gumwR/",
+        "taken_at_unix": 1778699843,
+        "taken_at_iso": "2026-05-13T19:17:23.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Les rdv pour la F1 commencent à rentrer 🏎️ Prenez rdv avant qu'il n'ait plus de place 🏁\n\n#f12026 #mtlgrandprix #mtl #spraytan #spraytanmtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DYSjU7gumwR__main_image__2.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYSjU7gumwR__main_image__2.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3896113695864813691_75063714188",
+        "code": "DYRxsOOjnh7",
+        "permalink": "https://www.instagram.com/p/DYRxsOOjnh7/",
+        "taken_at_unix": 1778672967,
+        "taken_at_iso": "2026-05-13T11:49:27.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Magnifique mix de couleur pour cette cliente, Milkshake et Dark chocolate - temps d'attente 2h30\n\n#spraytannuda #spraytanmtl #spraytan #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DYRxsOOjnh7__carousel_1_image__3.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYRxsOOjnh7__carousel_1_image__3.jpg"
+          },
+          {
+            "filename": "DYRxsOOjnh7__carousel_2_image__4.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYRxsOOjnh7__carousel_2_image__4.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3895707493354660072_75063714188",
+        "code": "DYQVVMqO2Do",
+        "permalink": "https://www.instagram.com/p/DYQVVMqO2Do/",
+        "taken_at_unix": 1778624803,
+        "taken_at_iso": "2026-05-12T22:26:43.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 13,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "✨ NOUVELLE HORAIRE DE JOUR ✨\n\nJe test une nouvelle horaire, elle sera sujet au changement dans les prochains mois mais pour l'instant vous pouvez continuer à utiliser le lien dans ma bio pour prendre rdv❤️\n\n#spraytanmtl #spraytan #mtl #mtlsummer #spraytanmontreal",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DYQVVMqO2Do__main_image__5.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYQVVMqO2Do__main_image__5.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3895364404091187912_75063714188",
+        "code": "DYPHUl4jnLI",
+        "permalink": "https://www.instagram.com/p/DYPHUl4jnLI/",
+        "taken_at_unix": 1778583600,
+        "taken_at_iso": "2026-05-12T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 22,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Espresso x Coco with a 10h wait time 🍸🍋🌶️\n\n#spraytanmtl #mtlspraytan #mtl #spraytan #spraytanlongueuil",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DYPHUl4jnLI__carousel_1_image__6.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYPHUl4jnLI__carousel_1_image__6.jpg"
+          },
+          {
+            "filename": "DYPHUl4jnLI__carousel_2_image__7.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYPHUl4jnLI__carousel_2_image__7.jpg"
+          },
+          {
+            "filename": "DYPHUl4jnLI__carousel_3_image__8.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYPHUl4jnLI__carousel_3_image__8.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3890290702190284592_75063714188",
+        "code": "DX9FsgxDo8w",
+        "permalink": "https://www.instagram.com/p/DX9FsgxDo8w/",
+        "taken_at_unix": 1778472000,
+        "taken_at_iso": "2026-05-11T04:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 21,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "No words🍒❤️\n\n#spraytan #spraytanmtl #spraytanrivesud #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DX9FsgxDo8w__carousel_1_image__9.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX9FsgxDo8w__carousel_1_image__9.jpg"
+          },
+          {
+            "filename": "DX9FsgxDo8w__carousel_2_image__10.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX9FsgxDo8w__carousel_2_image__10.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3891214368738531976_75063714188",
+        "code": "DYAXtoRjlqI",
+        "permalink": "https://www.instagram.com/p/DYAXtoRjlqI/",
+        "taken_at_unix": 1778088922,
+        "taken_at_iso": "2026-05-06T17:35:22.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Italy called and she SHOWED UP🌶️🍸🍋\n\nSolution : Coco & Milkshake \n@nudaprofessional \n\n#spraytanmtl #mtlsummer #spraytan #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DYAXtoRjlqI__carousel_1_image__11.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYAXtoRjlqI__carousel_1_image__11.jpg"
+          },
+          {
+            "filename": "DYAXtoRjlqI__carousel_2_image__12.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYAXtoRjlqI__carousel_2_image__12.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3889651070763198123_75063714188",
+        "code": "DX60QplDuar",
+        "permalink": "https://www.instagram.com/p/DX60QplDuar/",
+        "taken_at_unix": 1777902562,
+        "taken_at_iso": "2026-05-04T13:49:22.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 13,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "DM to book that glow, weather it's for a vacation, event or just for fun ✨🍒\n\n#rivesuddemontreal #spraytanmtl #spraytan #mtl #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DX60QplDuar__carousel_1_image__13.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX60QplDuar__carousel_1_image__13.jpg"
+          },
+          {
+            "filename": "DX60QplDuar__carousel_2_image__14.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX60QplDuar__carousel_2_image__14.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3888841113658652025_75063714188",
+        "code": "DX38GOPjvV5",
+        "permalink": "https://www.instagram.com/p/DX38GOPjvV5/",
+        "taken_at_unix": 1777806000,
+        "taken_at_iso": "2026-05-03T11:00:00.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 20,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Movie premiere ready 💋🌹\n\n#spraytanmtl #mtlspraytan #mtl #nudacanada #sunlesstanner",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DX38GOPjvV5__main_image__15.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX38GOPjvV5__main_image__15.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3888309474956305597_75063714188",
+        "code": "DX2DN3HjmS9",
+        "permalink": "https://www.instagram.com/p/DX2DN3HjmS9/",
+        "taken_at_unix": 1777742631,
+        "taken_at_iso": "2026-05-02T17:23:51.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 14,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Voici mes produits préférés « spray tan safe » ✨\n\nIl y a tellement de petits détails qui peuvent influencer le résultat d’un spray tan. Pour obtenir un fini uniforme et durable, il est essentiel de bien suivre les recommandations de votre artiste.\n\nAvant la première douche :\n• Évitez tout frottement (vêtements serrés, sacs, peau contre peau) pour ne pas altérer le bronzage\n• Respectez attentivement les étapes de douche indiquées dans votre guide de préparation\n• Rincez toujours vos mains avant le reste du corps, comme recommandé après votre rendez-vous\n• Évitez tout contact avec l’eau durant le temps de pose avant la première douche\n\nPost inspiré de @sprayedbyselina 🤎",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DX2DN3HjmS9__carousel_1_image__16.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_1_image__16.jpg"
+          },
+          {
+            "filename": "DX2DN3HjmS9__carousel_2_image__17.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_2_image__17.jpg"
+          },
+          {
+            "filename": "DX2DN3HjmS9__carousel_3_image__18.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_3_image__18.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3887550597313437181_75063714188",
+        "code": "DXzWqvPOZ39",
+        "permalink": "https://www.instagram.com/p/DXzWqvPOZ39/",
+        "taken_at_unix": 1777652305,
+        "taken_at_iso": "2026-05-01T16:18:25.000Z",
+        "media_type": 2,
+        "is_video": true,
+        "like_count": 80,
+        "comment_count": 5,
+        "play_count": 12213,
+        "view_count": null,
+        "caption": "DM TO BOOK BESTIES 15$ off tout le mois de Mai!! \n\n#mtl #spraytan #spraytanmtl #mtlsummer #mtlblog",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DXzWqvPOZ39__video__19.mp4",
+            "media_type": "video",
+            "part": "video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXzWqvPOZ39__video__19.mp4"
+          },
+          {
+            "filename": "DXzWqvPOZ39__cover__20.jpg",
+            "media_type": "image",
+            "part": "cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXzWqvPOZ39__cover__20.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3886808939296111339_75063714188",
+        "code": "DXwuCMYjrrr",
+        "permalink": "https://www.instagram.com/p/DXwuCMYjrrr/",
+        "taken_at_unix": 1777563754,
+        "taken_at_iso": "2026-04-30T15:42:34.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco x dark choco 🍒\n\n#spraytanmtl #spraytan #mtl #montreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DXwuCMYjrrr__carousel_1_image__21.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXwuCMYjrrr__carousel_1_image__21.jpg"
+          },
+          {
+            "filename": "DXwuCMYjrrr__carousel_2_image__22.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXwuCMYjrrr__carousel_2_image__22.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3885217525844048132_75063714188",
+        "code": "DXrEMFHDnkE",
+        "permalink": "https://www.instagram.com/p/DXrEMFHDnkE/",
+        "taken_at_unix": 1777374000,
+        "taken_at_iso": "2026-04-28T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Spray tan done & tan lines for dayss☀️🤍 \n\n#mtlsummer #montrealsalon #spraytan #spraytanartist #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DXrEMFHDnkE__carousel_1_image__23.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXrEMFHDnkE__carousel_1_image__23.jpg"
+          },
+          {
+            "filename": "DXrEMFHDnkE__carousel_2_image__24.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXrEMFHDnkE__carousel_2_image__24.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3884492555564261083_75063714188",
+        "code": "DXofWX7Dp7b",
+        "permalink": "https://www.instagram.com/p/DXofWX7Dp7b/",
+        "taken_at_unix": 1777287600,
+        "taken_at_iso": "2026-04-27T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 14,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "@celine.od_officiel In Coco as usual and looking better than ever in the summer weather 🍒🥥\n\n#spraytan #mtl #rivesuddemontreal #mtlsummer #montrealsummer",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DXofWX7Dp7b__carousel_1_image__25.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXofWX7Dp7b__carousel_1_image__25.jpg"
+          },
+          {
+            "filename": "DXofWX7Dp7b__carousel_2_image__26.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXofWX7Dp7b__carousel_2_image__26.jpg"
+          },
+          {
+            "filename": "DXofWX7Dp7b__carousel_3_image__27.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXofWX7Dp7b__carousel_3_image__27.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3883042888188052949_75063714188",
+        "code": "DXjVu7-DkXV",
+        "permalink": "https://www.instagram.com/p/DXjVu7-DkXV/",
+        "taken_at_unix": 1777114800,
+        "taken_at_iso": "2026-04-25T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 2,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Crisp tan lines\n\n#spraytanmontreal #spraytanmtl #mtlblog #montreal #spraytan",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DXjVu7-DkXV__carousel_1_video__28.mp4",
+            "media_type": "video",
+            "part": "carousel_1_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXjVu7-DkXV__carousel_1_video__28.mp4"
+          },
+          {
+            "filename": "DXjVu7-DkXV__carousel_1_cover__29.jpg",
+            "media_type": "image",
+            "part": "carousel_1_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXjVu7-DkXV__carousel_1_cover__29.jpg"
+          },
+          {
+            "filename": "DXjVu7-DkXV__carousel_2_image__30.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXjVu7-DkXV__carousel_2_image__30.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3880144238540840308_75063714188",
+        "code": "DXZCqCHgV10",
+        "permalink": "https://www.instagram.com/p/DXZCqCHgV10/",
+        "taken_at_unix": 1776769200,
+        "taken_at_iso": "2026-04-21T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Sun-kissed🌶️🍸🍋🍋‍🟩\n\n#spraytanmtl #mtlspraytan #nudacanada #montreal #mtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DXZCqCHgV10__carousel_1_image__31.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXZCqCHgV10__carousel_1_image__31.jpg"
+          },
+          {
+            "filename": "DXZCqCHgV10__carousel_2_image__32.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXZCqCHgV10__carousel_2_image__32.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3876656704713060514_75063714188",
+        "code": "DXMprvIjvCi",
+        "permalink": "https://www.instagram.com/p/DXMprvIjvCi/",
+        "taken_at_unix": 1776353660,
+        "taken_at_iso": "2026-04-16T15:34:20.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco will forever be a fan favorite at mocha tans☀️\n\n#rivesuddemontreal #mtl #spraytan #nudababe #spraytanmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DXMprvIjvCi__main_image__33.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXMprvIjvCi__main_image__33.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3875795083908702056_75063714188",
+        "code": "DXJlxgOlV9o",
+        "permalink": "https://www.instagram.com/p/DXJlxgOlV9o/",
+        "taken_at_unix": 1776250800,
+        "taken_at_iso": "2026-04-15T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 17,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "☀️Photoshoot tans are the best tans✨\n\n#mtl #montreal #spraytan #rivesuddemontreal #nudacanada",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DXJlxgOlV9o__carousel_1_image__34.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXJlxgOlV9o__carousel_1_image__34.jpg"
+          },
+          {
+            "filename": "DXJlxgOlV9o__carousel_2_image__35.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXJlxgOlV9o__carousel_2_image__35.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3875277962002434421_75063714188",
+        "code": "DXHwMY7Dgl1",
+        "permalink": "https://www.instagram.com/p/DXHwMY7Dgl1/",
+        "taken_at_unix": 1776189154,
+        "taken_at_iso": "2026-04-14T17:52:34.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 19,
+        "comment_count": 4,
+        "play_count": null,
+        "view_count": null,
+        "caption": "The beautiful @engiedanjou in Coco☀️👙\n@nudaprofessional \n\n#spraytan #mtl #montreal #nudacanada #rivesuddemtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DXHwMY7Dgl1__carousel_1_image__36.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXHwMY7Dgl1__carousel_1_image__36.jpg"
+          },
+          {
+            "filename": "DXHwMY7Dgl1__carousel_2_image__37.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXHwMY7Dgl1__carousel_2_image__37.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3875171535304855975_75063714188",
+        "code": "DXHX_rVjRGn",
+        "permalink": "https://www.instagram.com/p/DXHX_rVjRGn/",
+        "taken_at_unix": 1776176467,
+        "taken_at_iso": "2026-04-14T14:21:07.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 2,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Spray tan reason : Voyageee🛫⛱️\n\n#spraytan #mtl #spraytanmtl #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DXHX_rVjRGn__carousel_1_image__38.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXHX_rVjRGn__carousel_1_image__38.jpg"
+          },
+          {
+            "filename": "DXHX_rVjRGn__carousel_2_image__39.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DXHX_rVjRGn__carousel_2_image__39.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3866383790214387330_75063714188",
+        "code": "DWoJ5J9DpaC",
+        "permalink": "https://www.instagram.com/p/DWoJ5J9DpaC/",
+        "taken_at_unix": 1775128886,
+        "taken_at_iso": "2026-04-02T11:21:26.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Solution coco, temps d'attente 2h30✨\n\n#spraytanrivesud #spraytan #rivesuddemontreal #rivesudmtl #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DWoJ5J9DpaC__carousel_1_image__40.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWoJ5J9DpaC__carousel_1_image__40.jpg"
+          },
+          {
+            "filename": "DWoJ5J9DpaC__carousel_2_video__41.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWoJ5J9DpaC__carousel_2_video__41.mp4"
+          },
+          {
+            "filename": "DWoJ5J9DpaC__carousel_2_cover__42.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWoJ5J9DpaC__carousel_2_cover__42.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3864450549702569066_75063714188",
+        "code": "DWhSUzbFaxq",
+        "permalink": "https://www.instagram.com/p/DWhSUzbFaxq/",
+        "taken_at_unix": 1774898426,
+        "taken_at_iso": "2026-03-30T19:20:26.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 13,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "@mariemayxo looking GORGEOUS in @nudaprofessional 's Coco solution 🥥 more pictures to come🤭",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DWhSUzbFaxq__carousel_1_image__43.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWhSUzbFaxq__carousel_1_image__43.jpg"
+          },
+          {
+            "filename": "DWhSUzbFaxq__carousel_2_image__44.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWhSUzbFaxq__carousel_2_image__44.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3863836169771845411_75063714188",
+        "code": "DWfGoZhjocj",
+        "permalink": "https://www.instagram.com/p/DWfGoZhjocj/",
+        "taken_at_unix": 1774825312,
+        "taken_at_iso": "2026-03-29T23:01:52.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 3,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Chez Mocha Tans Mtl the confidence boost is 100% guaranteed ✨🍒\n\n#spraytan #spraytanmontreal #rivesuddemontreal #rivesudmtl #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DWfGoZhjocj__main_image__45.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWfGoZhjocj__main_image__45.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3861299760242536452_75063714188",
+        "code": "DWWF6yEjrAE",
+        "permalink": "https://www.instagram.com/p/DWWF6yEjrAE/",
+        "taken_at_unix": 1774522800,
+        "taken_at_iso": "2026-03-26T11:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate for a vacation tan is IT🍒🤎🥥\n\n#rivesudmtl #rivesuddemontreal #mtl #spraytan #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DWWF6yEjrAE__carousel_1_image__46.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWWF6yEjrAE__carousel_1_image__46.jpg"
+          },
+          {
+            "filename": "DWWF6yEjrAE__carousel_2_image__47.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWWF6yEjrAE__carousel_2_image__47.jpg"
+          },
+          {
+            "filename": "DWWF6yEjrAE__carousel_3_video__48.mp4",
+            "media_type": "video",
+            "part": "carousel_3_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWWF6yEjrAE__carousel_3_video__48.mp4"
+          },
+          {
+            "filename": "DWWF6yEjrAE__carousel_3_cover__49.jpg",
+            "media_type": "image",
+            "part": "carousel_3_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWWF6yEjrAE__carousel_3_cover__49.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3858005132126036032_75063714188",
+        "code": "DWKYzoiAaBA",
+        "permalink": "https://www.instagram.com/p/DWKYzoiAaBA/",
+        "taken_at_unix": 1774130072,
+        "taken_at_iso": "2026-03-21T21:54:32.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "les spray tan sont 40$ cette semaine✨🍒 Écrivez-moi pour réserver",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DWKYzoiAaBA__carousel_1_image__50.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWKYzoiAaBA__carousel_1_image__50.jpg"
+          },
+          {
+            "filename": "DWKYzoiAaBA__carousel_2_image__51.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DWKYzoiAaBA__carousel_2_image__51.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3850567064277148032_75063714188",
+        "code": "DVv9lgCDuGA",
+        "permalink": "https://www.instagram.com/p/DVv9lgCDuGA/",
+        "taken_at_unix": 1773243777,
+        "taken_at_iso": "2026-03-11T15:42:57.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 2,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "New season = new reasons to get a spray tan ✨\n\nDM pour booker ton spray tan durant ce temps hyper gris et retrouver un teint lumineux et naturel.\n\nService à domicile aussi offert pour celles qui ne se déplacent pas.✨\n\nProduits : @nudaprofessional \n\n#mtl #montreal #rivesud #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DVv9lgCDuGA__main_image__52.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVv9lgCDuGA__main_image__52.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3848693496387886343_75063714188",
+        "code": "DVpTlf9jl0H",
+        "permalink": "https://www.instagram.com/p/DVpTlf9jl0H/",
+        "taken_at_unix": 1773020144,
+        "taken_at_iso": "2026-03-09T01:35:44.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 14,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "I love what I do and I love all my clients even more🍒🫶🏻\n\n#nudacanada #montreal #rivesuddemontreal #rivesudmtl #longueuil",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DVpTlf9jl0H__main_image__53.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVpTlf9jl0H__main_image__53.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3848425605386140946_75063714188",
+        "code": "DVoWrLBjv0S",
+        "permalink": "https://www.instagram.com/p/DVoWrLBjv0S/",
+        "taken_at_unix": 1772988104,
+        "taken_at_iso": "2026-03-08T16:41:44.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Tanning Sunday with my fave solution : Coco🍒🥥",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DVoWrLBjv0S__carousel_1_image__54.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVoWrLBjv0S__carousel_1_image__54.jpg"
+          },
+          {
+            "filename": "DVoWrLBjv0S__carousel_2_image__55.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVoWrLBjv0S__carousel_2_image__55.jpg"
+          },
+          {
+            "filename": "DVoWrLBjv0S__carousel_3_image__56.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVoWrLBjv0S__carousel_3_image__56.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3841758743961193775_75063714188",
+        "code": "DVQqzkejs0v",
+        "permalink": "https://www.instagram.com/p/DVQqzkejs0v/",
+        "taken_at_unix": 1772193300,
+        "taken_at_iso": "2026-02-27T11:55:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate is for the divas 🍒🍫\n\n#estheticienne #spraytanmtl #spraytan #rivesud #rivesuddemontreal",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DVQqzkejs0v__carousel_1_image__57.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVQqzkejs0v__carousel_1_image__57.jpg"
+          },
+          {
+            "filename": "DVQqzkejs0v__carousel_2_image__58.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVQqzkejs0v__carousel_2_image__58.jpg"
+          },
+          {
+            "filename": "DVQqzkejs0v__carousel_3_image__59.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVQqzkejs0v__carousel_3_image__59.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3839640371911873447_75063714188",
+        "code": "DVJJJMxDlOn",
+        "permalink": "https://www.instagram.com/p/DVJJJMxDlOn/",
+        "taken_at_unix": 1771940822,
+        "taken_at_iso": "2026-02-24T13:47:02.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 11,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "This tan is going to Dubaï🐅\n\n#spraytan #nudacanada #mtl #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DVJJJMxDlOn__carousel_1_image__60.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVJJJMxDlOn__carousel_1_image__60.jpg"
+          },
+          {
+            "filename": "DVJJJMxDlOn__carousel_2_image__61.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVJJJMxDlOn__carousel_2_image__61.jpg"
+          },
+          {
+            "filename": "DVJJJMxDlOn__carousel_3_image__62.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DVJJJMxDlOn__carousel_3_image__62.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3836154653042445271_75063714188",
+        "code": "DU8wlUGDovX",
+        "permalink": "https://www.instagram.com/p/DU8wlUGDovX/",
+        "taken_at_unix": 1771525292,
+        "taken_at_iso": "2026-02-19T18:21:32.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 13,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate IS that girl🍒🤎\n\n#nudacanada #mtlspraytan #mtlesthetician #longueuil #mtl",
+        "location": null,
+        "media_files": [
+          {
+            "filename": "DU8wlUGDovX__carousel_1_image__63.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DU8wlUGDovX__carousel_1_image__63.jpg"
+          },
+          {
+            "filename": "DU8wlUGDovX__carousel_2_image__64.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DU8wlUGDovX__carousel_2_image__64.jpg"
+          },
+          {
+            "filename": "DU8wlUGDovX__carousel_3_image__65.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DU8wlUGDovX__carousel_3_image__65.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3832408079837614213_75063714188",
+        "code": "DUvctf5DtCF",
+        "permalink": "https://www.instagram.com/p/DUvctf5DtCF/",
+        "taken_at_unix": 1771078666,
+        "taken_at_iso": "2026-02-14T14:17:46.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Vacation tan🦎✨\n\n#nudacanada #rivesuddemontreal #mtl #montreal #spraytan",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DUvctf5DtCF__carousel_1_image__66.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvctf5DtCF__carousel_1_image__66.jpg"
+          },
+          {
+            "filename": "DUvctf5DtCF__carousel_2_video__67.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvctf5DtCF__carousel_2_video__67.mp4"
+          },
+          {
+            "filename": "DUvctf5DtCF__carousel_2_cover__68.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvctf5DtCF__carousel_2_cover__68.jpg"
+          },
+          {
+            "filename": "DUvctf5DtCF__carousel_3_video__69.mp4",
+            "media_type": "video",
+            "part": "carousel_3_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvctf5DtCF__carousel_3_video__69.mp4"
+          },
+          {
+            "filename": "DUvctf5DtCF__carousel_3_cover__70.jpg",
+            "media_type": "image",
+            "part": "carousel_3_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvctf5DtCF__carousel_3_cover__70.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3832339088469304956_75063714188",
+        "code": "DUvNBirDqZ8",
+        "permalink": "https://www.instagram.com/p/DUvNBirDqZ8/",
+        "taken_at_unix": 1771070400,
+        "taken_at_iso": "2026-02-14T12:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "🎀💝\n\n#valentinesday #rivesuddemontreal #rivesudmtl #nudacanada #mtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DUvNBirDqZ8__carousel_1_image__71.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvNBirDqZ8__carousel_1_image__71.jpg"
+          },
+          {
+            "filename": "DUvNBirDqZ8__carousel_2_image__72.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvNBirDqZ8__carousel_2_image__72.jpg"
+          },
+          {
+            "filename": "DUvNBirDqZ8__carousel_3_image__73.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUvNBirDqZ8__carousel_3_image__73.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3831253575414121640_75063714188",
+        "code": "DUrWNP3AQSo",
+        "permalink": "https://www.instagram.com/p/DUrWNP3AQSo/",
+        "taken_at_unix": 1770941038,
+        "taken_at_iso": "2026-02-13T00:03:58.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 9,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "🦎🍒\n\n#spraytan #nudacanada #mtl #rivesud #rivesuddemontreal",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DUrWNP3AQSo__carousel_1_image__74.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUrWNP3AQSo__carousel_1_image__74.jpg"
+          },
+          {
+            "filename": "DUrWNP3AQSo__carousel_2_image__75.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUrWNP3AQSo__carousel_2_image__75.jpg"
+          },
+          {
+            "filename": "DUrWNP3AQSo__carousel_3_image__76.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUrWNP3AQSo__carousel_3_image__76.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3826933026379452702_75063714188",
+        "code": "DUb_0_AjtEe",
+        "permalink": "https://www.instagram.com/p/DUb_0_AjtEe/",
+        "taken_at_unix": 1770425988,
+        "taken_at_iso": "2026-02-07T00:59:48.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Brazil Brazil in Dark Chocolate🍒🦎",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DUb_0_AjtEe__carousel_1_image__77.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUb_0_AjtEe__carousel_1_image__77.jpg"
+          },
+          {
+            "filename": "DUb_0_AjtEe__carousel_2_image__78.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUb_0_AjtEe__carousel_2_image__78.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3825981022081567237_75063714188",
+        "code": "DUYnXf6jsoF",
+        "permalink": "https://www.instagram.com/p/DUYnXf6jsoF/",
+        "taken_at_unix": 1770312501,
+        "taken_at_iso": "2026-02-05T17:28:21.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 12,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Bronzed in Brazil🇧🇷🦎\n\nSolution : Dark Chocolate - 3h15-30\n\n#nudacanada #mtl #rivesuddemontreal #rivesudmtl #spraytan",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DUYnXf6jsoF__carousel_1_image__79.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUYnXf6jsoF__carousel_1_image__79.jpg"
+          },
+          {
+            "filename": "DUYnXf6jsoF__carousel_2_image__80.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUYnXf6jsoF__carousel_2_image__80.jpg"
+          },
+          {
+            "filename": "DUYnXf6jsoF__carousel_3_image__81.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUYnXf6jsoF__carousel_3_image__81.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3825908556940336448_75063714188",
+        "code": "DUYW4_fjl1A",
+        "permalink": "https://www.instagram.com/p/DUYW4_fjl1A/",
+        "taken_at_unix": 1770303862,
+        "taken_at_iso": "2026-02-05T15:04:22.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco as usual🥥\n\n#rivesuddemontreal #rivesudmtl #mtl #spraytan #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DUYW4_fjl1A__carousel_1_image__82.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUYW4_fjl1A__carousel_1_image__82.jpg"
+          },
+          {
+            "filename": "DUYW4_fjl1A__carousel_2_image__83.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUYW4_fjl1A__carousel_2_image__83.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3820802902118552462_75063714188",
+        "code": "DUGN_75jtOO",
+        "permalink": "https://www.instagram.com/p/DUGN_75jtOO/",
+        "taken_at_unix": 1769695200,
+        "taken_at_iso": "2026-01-29T14:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate 🍒 🤎\n\n#rivesudmtl #rivesuddemontreal #mtl #spraytan #mtlmoments",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DUGN_75jtOO__carousel_1_image__84.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUGN_75jtOO__carousel_1_image__84.jpg"
+          },
+          {
+            "filename": "DUGN_75jtOO__carousel_2_video__85.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUGN_75jtOO__carousel_2_video__85.mp4"
+          },
+          {
+            "filename": "DUGN_75jtOO__carousel_2_cover__86.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DUGN_75jtOO__carousel_2_cover__86.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3818239273519171767_75063714188",
+        "code": "DT9HGOtjki3",
+        "permalink": "https://www.instagram.com/p/DT9HGOtjki3/",
+        "taken_at_unix": 1769389612,
+        "taken_at_iso": "2026-01-26T01:06:52.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate on a cold weekend🍩🍫\n\n#nudacanada #spraytanmtl #montreal #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DT9HGOtjki3__carousel_1_image__87.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT9HGOtjki3__carousel_1_image__87.jpg"
+          },
+          {
+            "filename": "DT9HGOtjki3__carousel_2_video__88.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT9HGOtjki3__carousel_2_video__88.mp4"
+          },
+          {
+            "filename": "DT9HGOtjki3__carousel_2_cover__89.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT9HGOtjki3__carousel_2_cover__89.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3817201341807103200_75063714188",
+        "code": "DT5bGVejozg",
+        "permalink": "https://www.instagram.com/p/DT5bGVejozg/",
+        "taken_at_unix": 1769265881,
+        "taken_at_iso": "2026-01-24T14:44:41.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Milkshake client gone coco🥥❄️🧦\n\n#rivesuddemontreal #rivesudmtl #spraytan #nudacanada #mtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DT5bGVejozg__carousel_1_image__90.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT5bGVejozg__carousel_1_image__90.jpg"
+          },
+          {
+            "filename": "DT5bGVejozg__carousel_2_video__91.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT5bGVejozg__carousel_2_video__91.mp4"
+          },
+          {
+            "filename": "DT5bGVejozg__carousel_2_cover__92.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT5bGVejozg__carousel_2_cover__92.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3816030068917823966_75063714188",
+        "code": "DT1QyEmDmne",
+        "permalink": "https://www.instagram.com/p/DT1QyEmDmne/",
+        "taken_at_unix": 1769126255,
+        "taken_at_iso": "2026-01-22T23:57:35.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Beautiful tan yesterday using coco🥥🍒\n\n#rivesuddemontreal #mtl #spraytan #rivesudmtl #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DT1QyEmDmne__carousel_1_image__93.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT1QyEmDmne__carousel_1_image__93.jpg"
+          },
+          {
+            "filename": "DT1QyEmDmne__carousel_2_video__94.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT1QyEmDmne__carousel_2_video__94.mp4"
+          },
+          {
+            "filename": "DT1QyEmDmne__carousel_2_cover__95.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DT1QyEmDmne__carousel_2_cover__95.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3810294894464747475_75063714188",
+        "code": "DTg4wTKDkfT",
+        "permalink": "https://www.instagram.com/p/DTg4wTKDkfT/",
+        "taken_at_unix": 1768442569,
+        "taken_at_iso": "2026-01-15T02:02:49.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark chocolate is back🍒🍫\n\n#rivesuddemontreal #mtl #montreal #spraytan #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTg4wTKDkfT__carousel_1_image__96.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTg4wTKDkfT__carousel_1_image__96.jpg"
+          },
+          {
+            "filename": "DTg4wTKDkfT__carousel_2_video__97.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTg4wTKDkfT__carousel_2_video__97.mp4"
+          },
+          {
+            "filename": "DTg4wTKDkfT__carousel_2_cover__98.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTg4wTKDkfT__carousel_2_cover__98.jpg"
+          },
+          {
+            "filename": "DTg4wTKDkfT__carousel_3_image__99.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTg4wTKDkfT__carousel_3_image__99.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3809367771070960447_75063714188",
+        "code": "DTdl84NgZM_",
+        "permalink": "https://www.instagram.com/p/DTdl84NgZM_/",
+        "taken_at_unix": 1768332047,
+        "taken_at_iso": "2026-01-13T19:20:47.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 16,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Tropical paradise 🦜🐠🥭🌺\n\n#mtl #montreal #rivesuddemontreal #spraytan",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTdl84NgZM___carousel_1_image__100.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTdl84NgZM___carousel_1_image__100.jpg"
+          },
+          {
+            "filename": "DTdl84NgZM___carousel_2_image__101.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTdl84NgZM___carousel_2_image__101.jpg"
+          },
+          {
+            "filename": "DTdl84NgZM___carousel_3_image__102.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTdl84NgZM___carousel_3_image__102.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3809176490710306212_75063714188",
+        "code": "DTc6dYfjo2k",
+        "permalink": "https://www.instagram.com/p/DTc6dYfjo2k/",
+        "taken_at_unix": 1768309200,
+        "taken_at_iso": "2026-01-13T13:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 9,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "CRISP lines using : Coco 🥥🌴\n\n#spraytans #mtl #rivesuddemontreal #rivesudmtl #mtlmoments",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTc6dYfjo2k__carousel_1_image__103.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTc6dYfjo2k__carousel_1_image__103.jpg"
+          },
+          {
+            "filename": "DTc6dYfjo2k__carousel_2_image__104.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTc6dYfjo2k__carousel_2_image__104.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3809174408422894483_75063714188",
+        "code": "DTc5_FNjiuT",
+        "permalink": "https://www.instagram.com/p/DTc5_FNjiuT/",
+        "taken_at_unix": 1768308996,
+        "taken_at_iso": "2026-01-13T12:56:36.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Looking gorgeous in Coco🥥🌴\n\n#mtl #spraytan #rivesud #rivesuddemontreal #rivesudmtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DTc5_FNjiuT__carousel_1_image__105.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTc5_FNjiuT__carousel_1_image__105.jpg"
+          },
+          {
+            "filename": "DTc5_FNjiuT__carousel_2_image__106.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTc5_FNjiuT__carousel_2_image__106.jpg"
+          },
+          {
+            "filename": "DTc5_FNjiuT__carousel_3_image__107.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTc5_FNjiuT__carousel_3_image__107.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3807956173731222847_75063714188",
+        "code": "DTYk_bvgVU_",
+        "permalink": "https://www.instagram.com/p/DTYk_bvgVU_/",
+        "taken_at_unix": 1768163771,
+        "taken_at_iso": "2026-01-11T20:36:11.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 3,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "🥥🌴\n\n#mtl #rivesudmtl #rivesuddemontreal #spraytan",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTYk_bvgVU___carousel_1_image__108.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTYk_bvgVU___carousel_1_image__108.jpg"
+          },
+          {
+            "filename": "DTYk_bvgVU___carousel_2_video__109.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTYk_bvgVU___carousel_2_video__109.mp4"
+          },
+          {
+            "filename": "DTYk_bvgVU___carousel_2_cover__110.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTYk_bvgVU___carousel_2_cover__110.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3807023238669569561_75063714188",
+        "code": "DTVQ3cQjo4Z",
+        "permalink": "https://www.instagram.com/p/DTVQ3cQjo4Z/",
+        "taken_at_unix": 1768052557,
+        "taken_at_iso": "2026-01-10T13:42:37.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Be like Maya, DM to book your tan🥥🤎\n\n#rivesuddemontreal #rivesudmtl #mtl #spraytan #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTVQ3cQjo4Z__main_image__111.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTVQ3cQjo4Z__main_image__111.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3805226690239398373_75063714188",
+        "code": "DTO4YOJjgHl",
+        "permalink": "https://www.instagram.com/p/DTO4YOJjgHl/",
+        "taken_at_unix": 1767838392,
+        "taken_at_iso": "2026-01-08T02:13:12.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco is so popular this week. We love crisp tan lines\n\n#spraytan #rivesuddemontreal #rivesudmtl #mtl #nudacanada",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTO4YOJjgHl__carousel_1_image__112.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTO4YOJjgHl__carousel_1_image__112.jpg"
+          },
+          {
+            "filename": "DTO4YOJjgHl__carousel_2_image__113.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTO4YOJjgHl__carousel_2_image__113.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3804470076041474773_75063714188",
+        "code": "DTMMWCRDjLV",
+        "permalink": "https://www.instagram.com/p/DTMMWCRDjLV/",
+        "taken_at_unix": 1767748196,
+        "taken_at_iso": "2026-01-07T01:09:56.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco🥥\n\n#rivesuddemontreal #mtl #spraytan #rivesudmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTMMWCRDjLV__main_image__114.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTMMWCRDjLV__main_image__114.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3803810877800368423_75063714188",
+        "code": "DTJ2dcEDskn",
+        "permalink": "https://www.instagram.com/p/DTJ2dcEDskn/",
+        "taken_at_unix": 1767669614,
+        "taken_at_iso": "2026-01-06T03:20:14.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 14,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Price list✨\n\nUPDATE DE PRIX DE GROUPE : \n\n🚨35$ + par personnes ajoutées🚨\n\n#rivesuddemontreal #rivesudmtl #mtl #spraytan",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTJ2dcEDskn__main_image__115.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTJ2dcEDskn__main_image__115.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3802300057480220371_75063714188",
+        "code": "DTEe8G_jk7T",
+        "permalink": "https://www.instagram.com/p/DTEe8G_jk7T/",
+        "taken_at_unix": 1767489510,
+        "taken_at_iso": "2026-01-04T01:18:30.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Before & After using Dark Chocolate🍫\n\n#rivesuddemontreal #rivesudmtl #mtl #spraytan #nuda",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DTEe8G_jk7T__main_image__116.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DTEe8G_jk7T__main_image__116.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3800799933364242096_75063714188",
+        "code": "DS_J2bigQaw",
+        "permalink": "https://www.instagram.com/p/DS_J2bigQaw/",
+        "taken_at_unix": 1767310681,
+        "taken_at_iso": "2026-01-01T23:38:01.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 11,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Thank you for your trust✨🥂 \nCheers to 2026\n\n#rivesuddemontreal #mtlspraytan #mtl #spraytan #nuda",
+        "location": null,
+        "media_files": [
+          {
+            "filename": "DS_J2bigQaw__main_image__117.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DS_J2bigQaw__main_image__117.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3799981696007396834_75063714188",
+        "code": "DS8Pzgngd3i",
+        "permalink": "https://www.instagram.com/p/DS8Pzgngd3i/",
+        "taken_at_unix": 1767213140,
+        "taken_at_iso": "2025-12-31T20:32:20.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "#nudacanada #spraytanmtl #rivesuddemontreal #mtl #mtlmoments",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DS8Pzgngd3i__main_image__118.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DS8Pzgngd3i__main_image__118.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3797848111175518724_75063714188",
+        "code": "DS0qrw5gUoE",
+        "permalink": "https://www.instagram.com/p/DS0qrw5gUoE/",
+        "taken_at_unix": 1766958915,
+        "taken_at_iso": "2025-12-28T21:55:15.000Z",
+        "media_type": 2,
+        "is_video": true,
+        "like_count": 38,
+        "comment_count": 3,
+        "play_count": 1058,
+        "view_count": null,
+        "caption": "Voici nos nouveaux produits, disponible dès maintenant✨\n\n#nudacanada #nudasunless #mtlblog #mtl #spraytanmtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DS0qrw5gUoE__video__119.mp4",
+            "media_type": "video",
+            "part": "video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DS0qrw5gUoE__video__119.mp4"
+          },
+          {
+            "filename": "DS0qrw5gUoE__cover__120.jpg",
+            "media_type": "image",
+            "part": "cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DS0qrw5gUoE__cover__120.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3794281331274393525_75063714188",
+        "code": "DSn_sSQgae1",
+        "permalink": "https://www.instagram.com/p/DSn_sSQgae1/",
+        "taken_at_unix": 1766533603,
+        "taken_at_iso": "2025-12-23T23:46:43.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Last minute spray tan for this beauty🥂❄️\n\n#spraytan #nudacanada #christmastan #mtl #mtlblog",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DSn_sSQgae1__carousel_1_image__121.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSn_sSQgae1__carousel_1_image__121.jpg"
+          },
+          {
+            "filename": "DSn_sSQgae1__carousel_2_image__122.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSn_sSQgae1__carousel_2_image__122.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3793491903559880368_75063714188",
+        "code": "DSlMMmaAc6w",
+        "permalink": "https://www.instagram.com/p/DSlMMmaAc6w/",
+        "taken_at_unix": 1766439496,
+        "taken_at_iso": "2025-12-22T21:38:16.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Holiday Tan✨🥂❄️",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DSlMMmaAc6w__carousel_1_image__123.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSlMMmaAc6w__carousel_1_image__123.jpg"
+          },
+          {
+            "filename": "DSlMMmaAc6w__carousel_2_image__124.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSlMMmaAc6w__carousel_2_image__124.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3790478626102587095_75063714188",
+        "code": "DSafDpFji7X",
+        "permalink": "https://www.instagram.com/p/DSafDpFji7X/",
+        "taken_at_unix": 1766080285,
+        "taken_at_iso": "2025-12-18T17:51:25.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Pour toutes mes clientes, on a maintenant le Barefoam au salon 🤍\nIl aide à enlever ton ancien spray tan et préparer ta peau à ton prochain spray tan sans résidu✨",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DSafDpFji7X__carousel_1_image__125.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSafDpFji7X__carousel_1_image__125.jpg"
+          },
+          {
+            "filename": "DSafDpFji7X__carousel_2_image__126.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSafDpFji7X__carousel_2_image__126.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3790473455800815148_75063714188",
+        "code": "DSad4Z3jg4s",
+        "permalink": "https://www.instagram.com/p/DSad4Z3jg4s/",
+        "taken_at_unix": 1766079669,
+        "taken_at_iso": "2025-12-18T17:41:09.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 1,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Besoin d’une crème solaire avec une touche de bronzage ?\nMaintenant disponible à mon salon ☀️\n\n⸻\n\nIn need of a new glowy sunscreen?\nWe now have some available at Mocha Tans ☀️",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DSad4Z3jg4s__carousel_1_image__127.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSad4Z3jg4s__carousel_1_image__127.jpg"
+          },
+          {
+            "filename": "DSad4Z3jg4s__carousel_2_image__128.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSad4Z3jg4s__carousel_2_image__128.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3790464084752632119_75063714188",
+        "code": "DSabwCZjok3",
+        "permalink": "https://www.instagram.com/p/DSabwCZjok3/",
+        "taken_at_unix": 1766078552,
+        "taken_at_iso": "2025-12-18T17:22:32.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Fais-toi plaisir ou gâte quelqu’un de spécial ! ✨\nChez Mocha Tans, les ensembles glow drops, pinces à cheveux et cloud mist☁️ Fais-toi plaisir ou gâte quelqu’un de spécial ! ✨\n_________\n\nTreat yourself or gift someone special! At Mocha tans, glow drops, hair clips, and cloud mist sets are now available☁️",
+        "location": null,
+        "media_files": [
+          {
+            "filename": "DSabwCZjok3__carousel_1_image__129.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSabwCZjok3__carousel_1_image__129.jpg"
+          },
+          {
+            "filename": "DSabwCZjok3__carousel_2_image__130.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSabwCZjok3__carousel_2_image__130.jpg"
+          },
+          {
+            "filename": "DSabwCZjok3__carousel_3_image__131.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSabwCZjok3__carousel_3_image__131.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3790453630793863240_75063714188",
+        "code": "DSaZX6ZDtBI",
+        "permalink": "https://www.instagram.com/p/DSaZX6ZDtBI/",
+        "taken_at_unix": 1766077306,
+        "taken_at_iso": "2025-12-18T17:01:46.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Les brumes Cloud Mist sont arrivées dans mon salon, dans les deux teintes ✨\nÀ très bientôt à ton prochain rendez-vous 🥂\n_______\n\nThe cloud mists have landed at my salon in both shades✨ See you at your next appointment 🥂",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DSaZX6ZDtBI__carousel_1_image__132.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSaZX6ZDtBI__carousel_1_image__132.jpg"
+          },
+          {
+            "filename": "DSaZX6ZDtBI__carousel_2_image__133.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSaZX6ZDtBI__carousel_2_image__133.jpg"
+          },
+          {
+            "filename": "DSaZX6ZDtBI__carousel_3_image__134.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSaZX6ZDtBI__carousel_3_image__134.jpg"
+          },
+          {
+            "filename": "DSaZX6ZDtBI__carousel_4_image__135.jpg",
+            "media_type": "image",
+            "part": "carousel_4_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSaZX6ZDtBI__carousel_4_image__135.jpg"
+          },
+          {
+            "filename": "DSaZX6ZDtBI__carousel_5_image__136.jpg",
+            "media_type": "image",
+            "part": "carousel_5_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSaZX6ZDtBI__carousel_5_image__136.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3789826713945495705_75063714188",
+        "code": "DSYK1ElAdiZ",
+        "permalink": "https://www.instagram.com/p/DSYK1ElAdiZ/",
+        "taken_at_unix": 1766002571,
+        "taken_at_iso": "2025-12-17T20:16:11.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 30,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Just a little introduction✨",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DSYK1ElAdiZ__carousel_1_image__137.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSYK1ElAdiZ__carousel_1_image__137.jpg"
+          },
+          {
+            "filename": "DSYK1ElAdiZ__carousel_2_image__138.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSYK1ElAdiZ__carousel_2_image__138.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3789290271767673066_75063714188",
+        "code": "DSWQ2z3jjjq",
+        "permalink": "https://www.instagram.com/p/DSWQ2z3jjjq/",
+        "taken_at_unix": 1765938622,
+        "taken_at_iso": "2025-12-17T02:30:22.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 11,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco glow tonight🥂✨\nDM to book your holiday glow❄️\n\n#mtl #mtlspraytan #spraytan #mtlblog #nudacanada",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DSWQ2z3jjjq__carousel_1_image__139.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSWQ2z3jjjq__carousel_1_image__139.jpg"
+          },
+          {
+            "filename": "DSWQ2z3jjjq__carousel_2_video__140.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSWQ2z3jjjq__carousel_2_video__140.mp4"
+          },
+          {
+            "filename": "DSWQ2z3jjjq__carousel_2_cover__141.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSWQ2z3jjjq__carousel_2_cover__141.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3787577877207076652_75063714188",
+        "code": "DSQLgMKDk8s",
+        "permalink": "https://www.instagram.com/p/DSQLgMKDk8s/",
+        "taken_at_unix": 1765734489,
+        "taken_at_iso": "2025-12-14T17:48:09.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Milkshake Glow before the holidays❄️🥂 \nThis color has an ashy purple tone that is perfect for this customer's skin tone.",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DSQLgMKDk8s__carousel_1_image__142.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSQLgMKDk8s__carousel_1_image__142.jpg"
+          },
+          {
+            "filename": "DSQLgMKDk8s__carousel_2_video__143.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSQLgMKDk8s__carousel_2_video__143.mp4"
+          },
+          {
+            "filename": "DSQLgMKDk8s__carousel_2_cover__144.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSQLgMKDk8s__carousel_2_cover__144.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3784149750845940406_75063714188",
+        "code": "DSEACYsDiK2",
+        "permalink": "https://www.instagram.com/p/DSEACYsDiK2/",
+        "taken_at_unix": 1765325825,
+        "taken_at_iso": "2025-12-10T00:17:05.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 16,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "The beautiful @arianepineau_ glowing in the Coco solution in Miami. \n\nNo words😍 \n\n#spraytan #mtl #miamiglow #spraytanmtl #mtlblog",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DSEACYsDiK2__carousel_1_image__145.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSEACYsDiK2__carousel_1_image__145.jpg"
+          },
+          {
+            "filename": "DSEACYsDiK2__carousel_2_image__146.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSEACYsDiK2__carousel_2_image__146.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3783369176182228421_75063714188",
+        "code": "DSBOjh4gQXF",
+        "permalink": "https://www.instagram.com/p/DSBOjh4gQXF/",
+        "taken_at_unix": 1765232773,
+        "taken_at_iso": "2025-12-08T22:26:13.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 15,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Forever grateful for this collab and what it has brought my business✨  @celine.od_officiel was glowing in the 305 showing off my work🌴🥂 \n\n#miamispraytan #spraytan #mtlblog #mtl #mtlmoments",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DSBOjh4gQXF__carousel_1_image__147.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSBOjh4gQXF__carousel_1_image__147.jpg"
+          },
+          {
+            "filename": "DSBOjh4gQXF__carousel_2_image__148.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSBOjh4gQXF__carousel_2_image__148.jpg"
+          },
+          {
+            "filename": "DSBOjh4gQXF__carousel_3_image__149.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DSBOjh4gQXF__carousel_3_image__149.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3781331525712093496_75063714188",
+        "code": "DR5_P0ADiE4",
+        "permalink": "https://www.instagram.com/p/DR5_P0ADiE4/",
+        "taken_at_unix": 1764989866,
+        "taken_at_iso": "2025-12-06T02:57:46.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 18,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "She's glowing in the 305🥂🌴 \n@celine.od_officiel \n\nUsing : Coco @nudaprofessional \n\n#mtl #mtlblog #mtlspraytan #spraytan",
+        "location": null,
+        "media_files": [
+          {
+            "filename": "DR5_P0ADiE4__carousel_1_image__150.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR5_P0ADiE4__carousel_1_image__150.jpg"
+          },
+          {
+            "filename": "DR5_P0ADiE4__carousel_2_image__151.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR5_P0ADiE4__carousel_2_image__151.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3781287875095458761_75063714188",
+        "code": "DR51UnMjnPJ",
+        "permalink": "https://www.instagram.com/p/DR51UnMjnPJ/",
+        "taken_at_unix": 1764984662,
+        "taken_at_iso": "2025-12-06T01:31:02.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 20,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "The results are insane🤗✨ We love a vacation tan\n\n#mtl #mtlspraytan #mtlblog #nudacanada #spraytan",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DR51UnMjnPJ__carousel_1_image__152.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR51UnMjnPJ__carousel_1_image__152.jpg"
+          },
+          {
+            "filename": "DR51UnMjnPJ__carousel_2_image__153.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR51UnMjnPJ__carousel_2_image__153.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3779864336119176410_75063714188",
+        "code": "DR0xpZNjRza",
+        "permalink": "https://www.instagram.com/p/DR0xpZNjRza/",
+        "taken_at_unix": 1764814963,
+        "taken_at_iso": "2025-12-04T02:22:43.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco💚🎄\n\n#mtlblog #mtlmoments #mtlspraytan #mtl #nudacanada",
+        "location": {
+          "id": "157540888399037",
+          "name": "Montreal, Canada",
+          "city": "Quebec",
+          "lat": 45.5016889,
+          "lng": -73.567256
+        },
+        "media_files": [
+          {
+            "filename": "DR0xpZNjRza__carousel_1_image__154.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR0xpZNjRza__carousel_1_image__154.jpg"
+          },
+          {
+            "filename": "DR0xpZNjRza__carousel_2_video__155.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR0xpZNjRza__carousel_2_video__155.mp4"
+          },
+          {
+            "filename": "DR0xpZNjRza__carousel_2_cover__156.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DR0xpZNjRza__carousel_2_cover__156.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3779038641817460592_75063714188",
+        "code": "DRx159eAR9w",
+        "permalink": "https://www.instagram.com/p/DRx159eAR9w/",
+        "taken_at_unix": 1764716533,
+        "taken_at_iso": "2025-12-02T23:02:13.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "On the road with dark chocolate today✨🥂🤎\n\n#spraytanmtl #mtlblog #nudacanada #spraytan #mtlmoments",
+        "location": {
+          "id": "216269605",
+          "name": "Côte Saint-Luc, Quebec",
+          "city": null,
+          "lat": 45.4667,
+          "lng": -73.668
+        },
+        "media_files": [
+          {
+            "filename": "DRx159eAR9w__carousel_1_image__157.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRx159eAR9w__carousel_1_image__157.jpg"
+          },
+          {
+            "filename": "DRx159eAR9w__carousel_2_image__158.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRx159eAR9w__carousel_2_image__158.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3775962875287188269_75063714188",
+        "code": "DRm6jqqjjMt",
+        "permalink": "https://www.instagram.com/p/DRm6jqqjjMt/",
+        "taken_at_unix": 1764349873,
+        "taken_at_iso": "2025-11-28T17:11:13.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "✨🤍🥂\n\n#spraytanmtl #spraytan #mtlblog #mtl #skincaremtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DRm6jqqjjMt__main_image__159.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRm6jqqjjMt__main_image__159.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3772401436890068878_75063714188",
+        "code": "DRaQx6sAXeO",
+        "permalink": "https://www.instagram.com/p/DRaQx6sAXeO/",
+        "taken_at_unix": 1763925316,
+        "taken_at_iso": "2025-11-23T19:15:16.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Coco glow✨🎄\n\n#mtlblog #spraytanmtl #mtlmoments #spraytan #nudacanada",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DRaQx6sAXeO__carousel_1_video__160.mp4",
+            "media_type": "video",
+            "part": "carousel_1_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRaQx6sAXeO__carousel_1_video__160.mp4"
+          },
+          {
+            "filename": "DRaQx6sAXeO__carousel_1_cover__161.jpg",
+            "media_type": "image",
+            "part": "carousel_1_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRaQx6sAXeO__carousel_1_cover__161.jpg"
+          },
+          {
+            "filename": "DRaQx6sAXeO__carousel_2_image__162.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRaQx6sAXeO__carousel_2_image__162.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3771125693015814326_75063714188",
+        "code": "DRVutZnjnC2",
+        "permalink": "https://www.instagram.com/p/DRVutZnjnC2/",
+        "taken_at_unix": 1763773236,
+        "taken_at_iso": "2025-11-22T01:00:36.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 8,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "The Crisp Lines Of Coco & Dark chocolate🥂🤍\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DRVutZnjnC2__carousel_1_image__163.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRVutZnjnC2__carousel_1_image__163.jpg"
+          },
+          {
+            "filename": "DRVutZnjnC2__carousel_2_image__164.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRVutZnjnC2__carousel_2_image__164.jpg"
+          },
+          {
+            "filename": "DRVutZnjnC2__carousel_3_image__165.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DRVutZnjnC2__carousel_3_image__165.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3764389806928184883_75063714188",
+        "code": "DQ9zJW2DkYz",
+        "permalink": "https://www.instagram.com/p/DQ9zJW2DkYz/",
+        "taken_at_unix": 1762970256,
+        "taken_at_iso": "2025-11-12T17:57:36.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Bronzed in the 305 🤎✨\n\nShade : Dark chocolate 2 days post tan🍫\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "332387124104554",
+          "name": "Miami, Florida",
+          "city": null,
+          "lat": 25.7752,
+          "lng": -80.192
+        },
+        "media_files": [
+          {
+            "filename": "DQ9zJW2DkYz__carousel_1_image__166.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQ9zJW2DkYz__carousel_1_image__166.jpg"
+          },
+          {
+            "filename": "DQ9zJW2DkYz__carousel_2_video__167.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQ9zJW2DkYz__carousel_2_video__167.mp4"
+          },
+          {
+            "filename": "DQ9zJW2DkYz__carousel_2_cover__168.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQ9zJW2DkYz__carousel_2_cover__168.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3763055774096530091_75063714188",
+        "code": "DQ5D0n9AZqr",
+        "permalink": "https://www.instagram.com/p/DQ5D0n9AZqr/",
+        "taken_at_unix": 1762811367,
+        "taken_at_iso": "2025-11-10T21:49:27.000Z",
+        "media_type": 2,
+        "is_video": true,
+        "like_count": 4,
+        "comment_count": 3,
+        "play_count": 374,
+        "view_count": null,
+        "caption": "Miami Glow✨🥂\n\nShade : Dark Chocolate \n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "219444690",
+          "name": "Laval, Quebec",
+          "city": null,
+          "lat": 45.6,
+          "lng": -73.7333
+        },
+        "media_files": [
+          {
+            "filename": "DQ5D0n9AZqr__video__169.mp4",
+            "media_type": "video",
+            "part": "video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQ5D0n9AZqr__video__169.mp4"
+          },
+          {
+            "filename": "DQ5D0n9AZqr__cover__170.jpg",
+            "media_type": "image",
+            "part": "cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQ5D0n9AZqr__cover__170.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3755781329946487447_75063714188",
+        "code": "DQfNzh5gSqX",
+        "permalink": "https://www.instagram.com/p/DQfNzh5gSqX/",
+        "taken_at_unix": 1761944045,
+        "taken_at_iso": "2025-10-31T20:54:05.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "A golden glow is the best accessory✨\n\nToday's mix : Milkshake & Cappuccino\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl #villestlaurent #villesaintlaurent",
+        "location": {
+          "id": "795838436",
+          "name": "Ville St-Laurent",
+          "city": null,
+          "lat": 45.507276,
+          "lng": -73.682857
+        },
+        "media_files": [
+          {
+            "filename": "DQfNzh5gSqX__carousel_1_image__171.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQfNzh5gSqX__carousel_1_image__171.jpg"
+          },
+          {
+            "filename": "DQfNzh5gSqX__carousel_2_image__172.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQfNzh5gSqX__carousel_2_image__172.jpg"
+          },
+          {
+            "filename": "DQfNzh5gSqX__carousel_3_video__173.mp4",
+            "media_type": "video",
+            "part": "carousel_3_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQfNzh5gSqX__carousel_3_video__173.mp4"
+          },
+          {
+            "filename": "DQfNzh5gSqX__carousel_3_cover__174.jpg",
+            "media_type": "image",
+            "part": "carousel_3_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQfNzh5gSqX__carousel_3_cover__174.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3754880451774128735_75063714188",
+        "code": "DQcA-BuDiJf",
+        "permalink": "https://www.instagram.com/p/DQcA-BuDiJf/",
+        "taken_at_unix": 1761836652,
+        "taken_at_iso": "2025-10-30T15:04:12.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "we love a good tan line✨ DM to book your appointment\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DQcA-BuDiJf__main_image__175.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DQcA-BuDiJf__main_image__175.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3746815370842751142_75063714188",
+        "code": "DP_XLpyDkCm",
+        "permalink": "https://www.instagram.com/p/DP_XLpyDkCm/",
+        "taken_at_unix": 1760875200,
+        "taken_at_iso": "2025-10-19T12:00:00.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Ma belle cliente dans la couleur Milkshake, rocking her popeye's merch. La couleur parfaite pour un glow de fin d'été💌☀️\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DP_XLpyDkCm__main_image__176.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DP_XLpyDkCm__main_image__176.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3740369526488703746_75063714188",
+        "code": "DPodkRbDiMC",
+        "permalink": "https://www.instagram.com/p/DPodkRbDiMC/",
+        "taken_at_unix": 1760106815,
+        "taken_at_iso": "2025-10-10T14:33:35.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 0,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Pumpkin spice & a perfect tan — your fall essentials!🍂\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "219444690",
+          "name": "Laval, Quebec",
+          "city": null,
+          "lat": 45.6,
+          "lng": -73.7333
+        },
+        "media_files": [
+          {
+            "filename": "DPodkRbDiMC__carousel_1_image__177.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPodkRbDiMC__carousel_1_image__177.jpg"
+          },
+          {
+            "filename": "DPodkRbDiMC__carousel_2_image__178.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPodkRbDiMC__carousel_2_image__178.jpg"
+          },
+          {
+            "filename": "DPodkRbDiMC__carousel_3_video__179.mp4",
+            "media_type": "video",
+            "part": "carousel_3_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPodkRbDiMC__carousel_3_video__179.mp4"
+          },
+          {
+            "filename": "DPodkRbDiMC__carousel_3_cover__180.jpg",
+            "media_type": "image",
+            "part": "carousel_3_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPodkRbDiMC__carousel_3_cover__180.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3739164137776672637_75063714188",
+        "code": "DPkLfjtDu99",
+        "permalink": "https://www.instagram.com/p/DPkLfjtDu99/",
+        "taken_at_unix": 1759963122,
+        "taken_at_iso": "2025-10-08T22:38:42.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 3,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "glow season🥥🤎\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DPkLfjtDu99__carousel_1_image__181.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPkLfjtDu99__carousel_1_image__181.jpg"
+          },
+          {
+            "filename": "DPkLfjtDu99__carousel_2_image__182.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPkLfjtDu99__carousel_2_image__182.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3735488566714578587_75063714188",
+        "code": "DPXHw9Zjjab",
+        "permalink": "https://www.instagram.com/p/DPXHw9Zjjab/",
+        "taken_at_unix": 1759524959,
+        "taken_at_iso": "2025-10-03T20:55:59.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 20,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Dark Chocolate solution🤎🍫\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DPXHw9Zjjab__main_image__183.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPXHw9Zjjab__main_image__183.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3733461830460127612_75063714188",
+        "code": "DPP68ELDjl8",
+        "permalink": "https://www.instagram.com/p/DPP68ELDjl8/",
+        "taken_at_unix": 1759283354,
+        "taken_at_iso": "2025-10-01T01:49:14.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 9,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "🤠🥥🤎\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DPP68ELDjl8__main_image__184.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPP68ELDjl8__main_image__184.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3730178166540378678_75063714188",
+        "code": "DPEQUd1jqI2",
+        "permalink": "https://www.instagram.com/p/DPEQUd1jqI2/",
+        "taken_at_unix": 1758892106,
+        "taken_at_iso": "2025-09-26T13:08:26.000Z",
+        "media_type": 2,
+        "is_video": true,
+        "like_count": 5,
+        "comment_count": 3,
+        "play_count": 147,
+        "view_count": null,
+        "caption": "L’Halloween approche… c’est le moment parfait d’avoir un beau teint bronzé maintenant que le froid est arrivé! 🍂🎃\n\n__________\n\n💋💌\nHalloween is around the corner… now’s the perfect time to get that bronzed glow while the cold sets in! 🍂🎃\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #longueuil #rivesuddemontreal  #spraytanmtl #NUDAspraytan #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincareqc #skincaremtl",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DPEQUd1jqI2__video__185.mp4",
+            "media_type": "video",
+            "part": "video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPEQUd1jqI2__video__185.mp4"
+          },
+          {
+            "filename": "DPEQUd1jqI2__cover__186.jpg",
+            "media_type": "image",
+            "part": "cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPEQUd1jqI2__cover__186.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3729478880466963615_75063714188",
+        "code": "DPBxUg7jgyf",
+        "permalink": "https://www.instagram.com/p/DPBxUg7jgyf/",
+        "taken_at_unix": 1758808500,
+        "taken_at_iso": "2025-09-25T13:55:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 10,
+        "comment_count": 2,
+        "play_count": null,
+        "view_count": null,
+        "caption": "My beautiful client in the Milkshake rapid solution. Perfect solution for people with an olive skintone💌🍸🍋\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #glow #laval  #longueuil #spraytanlongueuil #rivesuddemontreal #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincare",
+        "location": {
+          "id": "483822745102128",
+          "name": "Rive-Sud de Montréal",
+          "city": null,
+          "lat": 45.55541934,
+          "lng": -73.48384996
+        },
+        "media_files": [
+          {
+            "filename": "DPBxUg7jgyf__carousel_1_image__187.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPBxUg7jgyf__carousel_1_image__187.jpg"
+          },
+          {
+            "filename": "DPBxUg7jgyf__carousel_2_video__188.mp4",
+            "media_type": "video",
+            "part": "carousel_2_video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPBxUg7jgyf__carousel_2_video__188.mp4"
+          },
+          {
+            "filename": "DPBxUg7jgyf__carousel_2_cover__189.jpg",
+            "media_type": "image",
+            "part": "carousel_2_cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DPBxUg7jgyf__carousel_2_cover__189.jpg"
+          }
+        ],
+        "has_video_in_carousel": true
+      },
+      {
+        "id": "3724563825396113177_75063714188",
+        "code": "DOwTxDMAV8Z",
+        "permalink": "https://www.instagram.com/p/DOwTxDMAV8Z/",
+        "taken_at_unix": 1758222629,
+        "taken_at_iso": "2025-09-18T19:10:29.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "You're wondering what to wear to your spray tan appointment? I got you🤭💋\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #organicspraytan #organicspraytans #tan #laval  #spraytanlaval  #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincare",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DOwTxDMAV8Z__main_image__190.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DOwTxDMAV8Z__main_image__190.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3723622565488184442_75063714188",
+        "code": "DOs9v6ljUx6",
+        "permalink": "https://www.instagram.com/p/DOs9v6ljUx6/",
+        "taken_at_unix": 1758110400,
+        "taken_at_iso": "2025-09-17T12:00:00.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 6,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "My beautiful client rocking the Milkshake rapid solution🤎🥥\n\n#spraytan #spraytanmontreal #spraytans #montrealtan #montrealspraytan #tan #glow #laval  #spraytanlaval #organicspraytanlaval #mtl #montreal #mtllife #montreallife #mtlevents #mtImoments #montrealevents #montrealmoments #mtlblog #montrealfashion #skincare",
+        "location": {
+          "id": "102184499823699",
+          "name": "Montreal, Quebec",
+          "city": null,
+          "lat": 45.5038,
+          "lng": -73.5744
+        },
+        "media_files": [
+          {
+            "filename": "DOs9v6ljUx6__carousel_1_image__191.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DOs9v6ljUx6__carousel_1_image__191.jpg"
+          },
+          {
+            "filename": "DOs9v6ljUx6__carousel_2_image__192.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DOs9v6ljUx6__carousel_2_image__192.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3693392590196669755_75063714188",
+        "code": "DNBkP4Ku307",
+        "permalink": "https://www.instagram.com/p/DNBkP4Ku307/",
+        "taken_at_unix": 1754506875,
+        "taken_at_iso": "2025-08-06T19:01:15.000Z",
+        "media_type": 2,
+        "is_video": true,
+        "like_count": 5,
+        "comment_count": 0,
+        "play_count": 330,
+        "view_count": null,
+        "caption": "🥥🐚\n\n#spraytanlongueuil #mtl #longueuil #nuda #spraytanmtl #mtlblog #longueuilsthubert #esthetiquelongueuil #spraytan #mtlspraytan #cleangirlaesthetic #mtlsummer",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DNBkP4Ku307__video__193.mp4",
+            "media_type": "video",
+            "part": "video",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DNBkP4Ku307__video__193.mp4"
+          },
+          {
+            "filename": "DNBkP4Ku307__cover__194.jpg",
+            "media_type": "image",
+            "part": "cover",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DNBkP4Ku307__cover__194.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3688141181465177653_75063714188",
+        "code": "DMu6N0quK41",
+        "permalink": "https://www.instagram.com/p/DMu6N0quK41/",
+        "taken_at_unix": 1753880711,
+        "taken_at_iso": "2025-07-30T13:05:11.000Z",
+        "media_type": 1,
+        "is_video": false,
+        "like_count": 4,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "coco🌴\n\n#spraytanmtl #spraytanlongueuil #esthetiquelongueuil #nuda #mtl #mtlblog #longueuilsthubert #longueuil #mtlspraytan",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DMu6N0quK41__main_image__195.jpg",
+            "media_type": "image",
+            "part": "main_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMu6N0quK41__main_image__195.jpg"
+          }
+        ],
+        "has_video_in_carousel": null
+      },
+      {
+        "id": "3681827440867966035_75063714188",
+        "code": "DMYeozhOHxT",
+        "permalink": "https://www.instagram.com/p/DMYeozhOHxT/",
+        "taken_at_unix": 1753128055,
+        "taken_at_iso": "2025-07-21T20:00:55.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 5,
+        "comment_count": 1,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Milkshake never disappoints💜\n\n#spraytanmtl #spraytanlongueuil #esthetiquelongueuil #nuda #mtl #mtlblog #longueuilsthubert #longueuil #mtlspraytan",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DMYeozhOHxT__carousel_1_image__196.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMYeozhOHxT__carousel_1_image__196.jpg"
+          },
+          {
+            "filename": "DMYeozhOHxT__carousel_2_image__197.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMYeozhOHxT__carousel_2_image__197.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3679855816702832667_75063714188",
+        "code": "DMReV5bOjAb",
+        "permalink": "https://www.instagram.com/p/DMReV5bOjAb/",
+        "taken_at_unix": 1752893019,
+        "taken_at_iso": "2025-07-19T02:43:39.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 14,
+        "comment_count": 3,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Cappuccino glow🤎\n\n#spraytanmtl #spraytanlongueuil #esthetiquelongueuil #nuda #mtl #mtlblog #longueuilsthubert #longueuil #mtlspraytan",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DMReV5bOjAb__carousel_1_image__198.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMReV5bOjAb__carousel_1_image__198.jpg"
+          },
+          {
+            "filename": "DMReV5bOjAb__carousel_2_image__199.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMReV5bOjAb__carousel_2_image__199.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3675877649549896425_75063714188",
+        "code": "DMDVz8jOCrp",
+        "permalink": "https://www.instagram.com/p/DMDVz8jOCrp/",
+        "taken_at_unix": 1752418784,
+        "taken_at_iso": "2025-07-13T14:59:44.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 13,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "This & a spray tan🍊🌺🥥\n\n#mtl #mtlblog #longueuil #longueuilsainthubert #longueuilsalon #spraytanlongueuil #spraytan #nuda #spraytanmontreal #spraytanmtl",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DMDVz8jOCrp__carousel_1_image__200.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMDVz8jOCrp__carousel_1_image__200.jpg"
+          },
+          {
+            "filename": "DMDVz8jOCrp__carousel_2_image__201.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMDVz8jOCrp__carousel_2_image__201.jpg"
+          },
+          {
+            "filename": "DMDVz8jOCrp__carousel_3_image__202.jpg",
+            "media_type": "image",
+            "part": "carousel_3_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DMDVz8jOCrp__carousel_3_image__202.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3670255292269496102_75063714188",
+        "code": "DLvXb4SuIcm",
+        "permalink": "https://www.instagram.com/p/DLvXb4SuIcm/",
+        "taken_at_unix": 1751748547,
+        "taken_at_iso": "2025-07-05T20:49:07.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 7,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "Cappuccino glow🌺🥭\n\n#longueuil #sthubert #mtl #spraytanlongueuil #spraytan #spraytanmontreal #spraytanmtl",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DLvXb4SuIcm__carousel_1_image__203.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DLvXb4SuIcm__carousel_1_image__203.jpg"
+          },
+          {
+            "filename": "DLvXb4SuIcm__carousel_2_image__204.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DLvXb4SuIcm__carousel_2_image__204.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      },
+      {
+        "id": "3669590572982105513_75063714188",
+        "code": "DLtAS8NuHWp",
+        "permalink": "https://www.instagram.com/p/DLtAS8NuHWp/",
+        "taken_at_unix": 1751669306,
+        "taken_at_iso": "2025-07-04T22:48:26.000Z",
+        "media_type": 8,
+        "is_video": false,
+        "like_count": 12,
+        "comment_count": 0,
+        "play_count": null,
+        "view_count": null,
+        "caption": "The Milkshake solution is giving🌺🍋🥭\n\n#spraytan #spraytanlongueuil #spraytansouthshore #mtl #longueuil #nuda",
+        "location": {
+          "id": "245908458",
+          "name": "Longueuil, Quebec",
+          "city": null,
+          "lat": 45.5181,
+          "lng": -73.4721
+        },
+        "media_files": [
+          {
+            "filename": "DLtAS8NuHWp__carousel_1_image__205.jpg",
+            "media_type": "image",
+            "part": "carousel_1_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DLtAS8NuHWp__carousel_1_image__205.jpg"
+          },
+          {
+            "filename": "DLtAS8NuHWp__carousel_2_image__206.jpg",
+            "media_type": "image",
+            "part": "carousel_2_image",
+            "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DLtAS8NuHWp__carousel_2_image__206.jpg"
+          }
+        ],
+        "has_video_in_carousel": false
+      }
+    ],
+    "pinned_posts_detected_codes": [
+      "DYQVVMqO2Do",
+      "DX2DN3HjmS9",
+      "DXHwMY7Dgl1"
+    ],
+    "pinned_posts_scan": {
+      "requested_first_two_pinned_codes": [
+        "DYQVVMqO2Do",
+        "DX2DN3HjmS9"
+      ],
+      "scanned_posts": [
+        {
+          "rank": 1,
+          "code": "DYQVVMqO2Do",
+          "permalink": "https://www.instagram.com/p/DYQVVMqO2Do/",
+          "taken_at_iso": "2026-05-12T22:26:43.000Z",
+          "caption": "✨ NOUVELLE HORAIRE DE JOUR ✨\n\nJe test une nouvelle horaire, elle sera sujet au changement dans les prochains mois mais pour l'instant vous pouvez continuer à utiliser le lien dans ma bio pour prendre rdv❤️\n\n#spraytanmtl #spraytan #mtl #mtlsummer #spraytanmontreal",
+          "media_files": [
+            {
+              "filename": "DYQVVMqO2Do__main_image__5.jpg",
+              "media_type": "image",
+              "part": "main_image",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DYQVVMqO2Do__main_image__5.jpg"
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "code": "DX2DN3HjmS9",
+          "permalink": "https://www.instagram.com/p/DX2DN3HjmS9/",
+          "taken_at_iso": "2026-05-02T17:23:51.000Z",
+          "caption": "Voici mes produits préférés « spray tan safe » ✨\n\nIl y a tellement de petits détails qui peuvent influencer le résultat d’un spray tan. Pour obtenir un fini uniforme et durable, il est essentiel de bien suivre les recommandations de votre artiste.\n\nAvant la première douche :\n• Évitez tout frottement (vêtements serrés, sacs, peau contre peau) pour ne pas altérer le bronzage\n• Respectez attentivement les étapes de douche indiquées dans votre guide de préparation\n• Rincez toujours vos mains avant le reste du corps, comme recommandé après votre rendez-vous\n• Évitez tout contact avec l’eau durant le temps de pose avant la première douche\n\nPost inspiré de @sprayedbyselina 🤎",
+          "media_files": [
+            {
+              "filename": "DX2DN3HjmS9__carousel_1_image__16.jpg",
+              "media_type": "image",
+              "part": "carousel_1_image",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_1_image__16.jpg"
+            },
+            {
+              "filename": "DX2DN3HjmS9__carousel_2_image__17.jpg",
+              "media_type": "image",
+              "part": "carousel_2_image",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_2_image__17.jpg"
+            },
+            {
+              "filename": "DX2DN3HjmS9__carousel_3_image__18.jpg",
+              "media_type": "image",
+              "part": "carousel_3_image",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/DX2DN3HjmS9__carousel_3_image__18.jpg"
+            }
+          ]
+        }
+      ],
+      "hours_from_first_pinned_post": {
+        "source_post_code": "DYQVVMqO2Do",
+        "extracted_from_image_text": true,
+        "timezone": "America/Toronto",
+        "days": [
+          {
+            "day": "Monday",
+            "hours": "10:00-21:00"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10:00-21:00"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10:00-21:00"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10:00-21:00"
+          },
+          {
+            "day": "Friday",
+            "hours": "10:00-21:00"
+          },
+          {
+            "day": "Saturday",
+            "hours": "12:00-17:00"
+          },
+          {
+            "day": "Sunday",
+            "hours": "12:00-17:00"
+          }
+        ],
+        "extracted_text_lines": [
+          "LUNDI 10H-21H",
+          "MARDI 10H-21H",
+          "MERCREDI 10H-21H",
+          "JEUDI 10H-21H",
+          "VENDREDI 10H-21H",
+          "SAMEDI 12H-17H",
+          "DIMANCHE 12H-17H"
+        ]
+      },
+      "products_from_second_pinned_post": {
+        "source_post_code": "DX2DN3HjmS9",
+        "source_caption": "Voici mes produits préférés « spray tan safe » ✨\n\nIl y a tellement de petits détails qui peuvent influencer le résultat d’un spray tan. Pour obtenir un fini uniforme et durable, il est essentiel de bien suivre les recommandations de votre artiste.\n\nAvant la première douche :\n• Évitez tout frottement (vêtements serrés, sacs, peau contre peau) pour ne pas altérer le bronzage\n• Respectez attentivement les étapes de douche indiquées dans votre guide de préparation\n• Rincez toujours vos mains avant le reste du corps, comme recommandé après votre rendez-vous\n• Évitez tout contact avec l’eau durant le temps de pose avant la première douche\n\nPost inspiré de @sprayedbyselina 🤎",
+        "extracted_from_carousel_slides": [
+          "PRODUITS SPRAY TAN SAFE",
+          "Gel de douche",
+          "Lotion corporelle",
+          "Exfoliation"
+        ],
+        "brand_examples_seen": [
+          "NUDA",
+          "Cetaphil",
+          "CeraVe",
+          "Aveeno",
+          "Native"
+        ]
+      }
+    },
+    "highlights": {
+      "extraction_status": "partial",
+      "story_items_download_status": "blocked_for_logged_out_requests",
+      "story_items_downloaded_count": 0,
+      "note": "Public highlight reels were discovered and cover images were downloaded, but underlying story frames/items returned empty or blocked in logged-out API responses during this run.",
+      "reels": [
+        {
+          "id": "18104329696542160",
+          "title": "REVIEWS",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_REVIEWS_18104329696542160_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_REVIEWS_18104329696542160_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/502396630_17850387075498189_5821524838870084758_n.jpg?stp=c0.455.1170.1170a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=0h1bk3uxu_4Q7kNvwE8r5-C&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af7FaKN2g0ad0hrff_8oGyR6BGXq4CLzvK5-LfxOzBPa8g&oe=6A0ED79F&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_REVIEWS_18104329696542160_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_REVIEWS_18104329696542160_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/515396786_1366574121106682_8622599685331439304_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=jQKgL8BlLesQ7kNvwHEMHYl&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af5icoOcElXNhU9xo7k01PuyZqUnzKsbrN2PejSRfl8C7w&oe=6A0EEA5A&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "18037359206362101",
+          "title": "TAN LINES",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_TAN_LINES_18037359206362101_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_TAN_LINES_18037359206362101_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/515493589_17850227469498189_5579565613241558672_n.jpg?stp=c0.455.1170.1170a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=Zi_-bGh-nY4Q7kNvwH7g2ce&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af7WRQoConiBPE5-bLerhPuhSAwp0YZMvRfVqX1GU857dw&oe=6A0ED9CC&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_TAN_LINES_18037359206362101_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_TAN_LINES_18037359206362101_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/515411724_24027632486904625_8217125121255592471_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=QJvsDOr00esQ7kNvwHJup12&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af7e2mdOPo9YwCFMWnHhum394rw1qnd1t4Z_aY9ahORKaQ&oe=6A0F01EB&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "17986639622912226",
+          "title": "HOURS",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_HOURS_17986639622912226_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_HOURS_17986639622912226_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/689057324_17890026030498189_6317441716725521347_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=AmEuCeo89E4Q7kNvwGpbvFo&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af4nRyG2blt6BHzOoCXoVSOdxqEsn3AXBLYieODE4LTCbA&oe=6A0F0761&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_HOURS_17986639622912226_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_HOURS_17986639622912226_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/588576388_1174024594853342_8675991325459040606_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=d515e9jWEeoQ7kNvwFlXE2n&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af4YH-jM4vWQTt9PbG2z1NiqcauxJdr2axOXwY2h7BdHbw&oe=6A0EEE9F&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "18412128616109476",
+          "title": "FAQ",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_FAQ_18412128616109476_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_FAQ_18412128616109476_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/514601340_17849812647498189_5499300596321720044_n.jpg?stp=c0.455.1170.1170a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=fEKL9f4cSrIQ7kNvwE0c4UI&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af7TpsgRPX0pn3Dpw5GdhwgHf7topYgDdNq5E6r2XlMPtg&oe=6A0ED96B&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_FAQ_18412128616109476_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_FAQ_18412128616109476_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/515513556_3076195495880099_8903094331689884690_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=O2iPaRXC4ysQ7kNvwFOlm9z&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af4F9Bz1RwBOQslu6cokAqoNfLTIatPhWyQ_hDo817xvqg&oe=6A0EE08A&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "18087617074735944",
+          "title": "SHOP",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_SHOP_18087617074735944_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_SHOP_18087617074735944_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/551327494_17860111233498189_6928255311373004548_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=rTciU8U6Yo8Q7kNvwGLuLs_&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af4shLMQ0BshLCBwO5K-_JpfkKcpdyTt04sNyjxnDBvKYQ&oe=6A0F0A70&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_SHOP_18087617074735944_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_SHOP_18087617074735944_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/502451280_1053726750279781_8517638510226765718_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=f0MWWtcRNkIQ7kNvwFPFOCb&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af6FQ_1eKfz-2xl-8_CC93SKS3biG73EL7zglDcannqyyw&oe=6A0F0785&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "18033135206427421",
+          "title": "PRICES",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_PRICES_18033135206427421_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_PRICES_18033135206427421_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/572924300_17864240301498189_7385650227037723386_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=SwOruLhbg1YQ7kNvwEgDu8H&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af5cddT9N4Df6QGOTTYLIbA6BYCr-93wI_dD7rp4lEtcSw&oe=6A0EDEA1&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_PRICES_18033135206427421_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_PRICES_18033135206427421_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/517151513_1102104431806661_3095401455187432488_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=JsZUxMCxn1gQ7kNvwE0p4wD&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af68x1WcZynZ0FA1OgXj_UBRJ4HFQXn-VxJhan4JFbkGMQ&oe=6A0EFE3C&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "17863224216494113",
+          "title": "COLORS",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_COLORS_17863224216494113_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_COLORS_17863224216494113_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/552666440_17860500327498189_8915274166729979842_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=utJHyHZtuT4Q7kNvwHo6Bii&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af7F6_stIagOZ-e3QY0xcPOv9OD8auw6tluX3t-1C_30_A&oe=6A0EDA2D&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_COLORS_17863224216494113_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_COLORS_17863224216494113_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.71878-15/567150445_1306710100776062_1349251763115105851_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=cffR4LPNRMwQ7kNvwGwD71s&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af53HTIyEev0IInhtKtPN9Jpd6QO65URpqzEFjNVIaxHSw&oe=6A0EFDF3&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "17906665932188507",
+          "title": "AFTER CARE",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_AFTER_CARE_17906665932188507_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_AFTER_CARE_17906665932188507_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/615910656_17873119626498189_9075670265539139_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=y40L78IDef0Q7kNvwF0pQDG&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af6AMFlOyEMTE6LEa17nMcpzEbNDxuEgdtOZz23NdiU4Jg&oe=6A0EF8D0&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_AFTER_CARE_17906665932188507_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_AFTER_CARE_17906665932188507_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/515764166_762171012813654_5469872207113207469_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=kAispsoxpfAQ7kNvwFJwI3j&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af42npThqoo1FnkhJCXrqw57rwkEP5eI612VWqdeKzKdvA&oe=6A0EDD2F&_nc_sid=94fea1"
+            }
+          ]
+        },
+        {
+          "id": "18054021467093003",
+          "title": "PREP",
+          "covers": [
+            {
+              "kind": "thumbnail_src",
+              "filename": "highlight_PREP_18054021467093003_thumbnail_src.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_PREP_18054021467093003_thumbnail_src.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.82787-15/584030043_17866722903498189_7172928805701023821_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=hENP_YiSwskQ7kNvwERImQx&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af4xH7yORX7atR5XDRkd_Rh4ue_pu5luzU6Yibsr2uenhw&oe=6A0EED15&_nc_sid=94fea1"
+            },
+            {
+              "kind": "cropped_thumbnail",
+              "filename": "highlight_PREP_18054021467093003_cropped_thumbnail.jpg",
+              "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram/highlights_covers/highlight_PREP_18054021467093003_cropped_thumbnail.jpg",
+              "url": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/515325224_1058905796437147_5012005001586991669_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGGvylIBlhFCXcP6OUHKimhK2gkVNq2Zy-9X2cmJT4W4C_BgKQuJntsSb_qo0repNc&_nc_ohc=4D5oZSLJCRcQ7kNvwEHZd9B&_nc_gid=-WCOHTB4fZoNZM7Qjlx-eg&edm=AGW0Xe4BAAAA&ccb=7-5&oh=00_Af5hk8Q1w_NHwTh9yWteRcV1M2yYcc4G-qIIUo67WOnNUw&oe=6A0EED5E&_nc_sid=94fea1"
+            }
+          ]
+        }
+      ],
+      "requested_info_locations": {
+        "reviews": "REVIEWS highlight",
+        "faq": "FAQ highlight",
+        "hours": "HOURS highlight",
+        "prices": "PRICES highlight",
+        "shop": "SHOP highlight"
+      }
+    }
+  },
+  "square_site": {
+    "site": {
+      "site_id": "82e026c0-5958-11f0-8858-5382977b5a70",
+      "site_title": "Mocha tans",
+      "square_merchant_id": "ML5WZE6EV2VG1",
+      "language": "fr_CA",
+      "locale": null,
+      "currency": null,
+      "domain": "mochatansmtl.square.site",
+      "published_at_unix": 1778355466,
+      "published_at_iso": "2026-05-09T19:37:46.000Z",
+      "vertical": "salon-barbershop",
+      "logo": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/download_1777511911.jpg",
+      "instagram_username": "mochatansmtl",
+      "tiktok_username": "mochatansmtl"
+    },
+    "route_map": {
+      "": "8e39d320-4bde-11f1-9e7b-817c4895144d",
+      "photos": "8e394ff0-4bde-11f1-beed-c9cb69608ceb",
+      "nous-contacter": "8e3921f0-4bde-11f1-864c-6191f40d0647",
+      "guide-post-seance": "8e38af20-4bde-11f1-b6d9-53f195546288",
+      "guide-de-preparation": "8e38f380-4bde-11f1-8293-e11787726467"
+    },
+    "pages_meta": [
+      {
+        "id": "8e38f380-4bde-11f1-8293-e11787726467",
+        "name": "Guide de préparation",
+        "route": "guide-de-preparation",
+        "title": "Guide de préparation",
+        "featureType": null,
+        "description": "",
+        "hidden": false
+      },
+      {
+        "id": "8e38af20-4bde-11f1-b6d9-53f195546288",
+        "name": "Guide post séance",
+        "route": "guide-post-seance",
+        "title": "Guide post séance",
+        "featureType": null,
+        "description": "",
+        "hidden": false
+      },
+      {
+        "id": "8e3921f0-4bde-11f1-864c-6191f40d0647",
+        "name": "Nous contacter",
+        "route": "nous-contacter",
+        "title": "Contact Us",
+        "featureType": null,
+        "description": "",
+        "hidden": false
+      },
+      {
+        "id": "8e394ff0-4bde-11f1-beed-c9cb69608ceb",
+        "name": "Photos",
+        "route": "photos",
+        "title": "Gallery-1",
+        "featureType": null,
+        "description": "",
+        "hidden": false
+      }
+    ],
+    "pages": [
+      {
+        "file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/square_pages/guide-de-preparation.html",
+        "route": "guide-de-preparation",
+        "page_name": "Guide de préparation",
+        "page_type": null,
+        "template": false,
+        "text_snippets": [],
+        "detected_service_ids": []
+      },
+      {
+        "file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/square_pages/guide-post-seance.html",
+        "route": "guide-post-seance",
+        "page_name": "Guide post séance",
+        "page_type": null,
+        "template": false,
+        "text_snippets": [],
+        "detected_service_ids": []
+      },
+      {
+        "file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/square_pages/home.html",
+        "route": "",
+        "page_name": "Appointments",
+        "page_type": "appointments",
+        "template": true,
+        "text_snippets": [
+          "Menu des services offerts"
+        ],
+        "detected_service_ids": [
+          "GKQSPCGVEU3MMVLM4FRACAZT"
+        ]
+      },
+      {
+        "file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/square_pages/nous-contacter.html",
+        "route": "nous-contacter",
+        "page_name": "Nous contacter",
+        "page_type": null,
+        "template": false,
+        "text_snippets": [],
+        "detected_service_ids": []
+      },
+      {
+        "file": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw/square_pages/photos.html",
+        "route": "photos",
+        "page_name": "Photos",
+        "page_type": null,
+        "template": false,
+        "text_snippets": [],
+        "detected_service_ids": []
+      }
+    ],
+    "service_ids_detected": [
+      "GKQSPCGVEU3MMVLM4FRACAZT"
+    ],
+    "social_accounts": [
+      {
+        "icon": "instagram",
+        "user": "mochatansmtl"
+      },
+      {
+        "icon": "tiktok",
+        "user": "mochatansmtl"
+      }
+    ],
+    "store_info": null,
+    "image_assets": [
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/82e026c0-5958-11f0-8858-5382977b5a70/splash_2048x4435_MzYxNj.jpg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/001_splash_2048x4435_MzYxNj.jpg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/82e026c0-5958-11f0-8858-5382977b5a70/icon_180x180_ios_NzE1MD.png",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/002_icon_180x180_ios_NzE1MD.png"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/82e026c0-5958-11f0-8858-5382977b5a70/icon_512x512_android_NTgxMT.png",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/003_icon_512x512_android_NTgxMT.png"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/download_1777511911.jpg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/004_download_1777511911.jpg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/Simple%20Checklist%20_%20Onboarding%20Service%20Guide%20_%20A4_1777993356.JPG",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/005_Simple%20Checklist%20_%20Onboarding%20Service%20Guide%20_%20A4_1777993356.JPG"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/0_1777993367.jpg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/006_0_1777993367.jpg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f3587445c0c7.71897986.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/007_IG_4.30.2026_69f3587445c0c7.71897986.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f35874425295.60479771.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/008_IG_4.30.2026_69f35874425295.60479771.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f35874705762.17997835.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/009_IG_4.30.2026_69f35874705762.17997835.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f35874755142.42892096.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/010_IG_4.30.2026_69f35874755142.42892096.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f3587438e615.40638580.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/011_IG_4.30.2026_69f3587438e615.40638580.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f35874572a69.68542156.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/012_IG_4.30.2026_69f35874572a69.68542156.jpeg"
+      },
+      {
+        "url": "https://mochatansmtl.square.site/uploads/b/a1326f32ac9566e15adcedf9ba16b6a2d861d44686103a46b4e42ccfb22114cb/IG_4.30.2026_69f35874747b60.97015602.jpeg",
+        "path": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square/013_IG_4.30.2026_69f35874747b60.97015602.jpeg"
+      }
+    ]
+  },
+  "downloads": {
+    "instagram_media_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/instagram",
+    "square_media_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/square",
+    "raw_data_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/raw",
+    "counts": {
+      "instagram_media_files": 206,
+      "square_image_files": 13,
+      "square_image_urls_detected": 13,
+      "all_images_files": 195,
+      "instagram_image_files": 182,
+      "instagram_video_files": 24
+    },
+    "all_images_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/all"
+  },
+  "quick_analysis": {
+    "positioning": "Mobile and home-based spray tanning service in Montreal area, with direct social-to-booking funnel.",
+    "funnel_observation": "Instagram bio points to Square booking page; Square home page is appointment-first.",
+    "content_observation": "Instagram has 92 publicly retrievable posts in feed snapshot, with heavy carousel usage and some reel/video content.",
+    "credibility_signals": [
+      "Consistent branding across Instagram and Square",
+      "Service guides published on Square site",
+      "Public booking flow enabled"
+    ],
+    "gaps_or_opportunities": [
+      "No public business phone/email exposed in Instagram profile metadata",
+      "Highlight details not publicly retrievable without authenticated story-highlight API access",
+      "Could add stronger contact/location details on profile for conversion clarity"
+    ]
+  },
+  "square_booking": {
+    "source_url": "https://book.squareup.com/appointments/3819thb2v62amp/location/LTQ8SGNBX1WWH/services?buttonTextColor=ffffff&color=8e5e01&locale=fr-CA&referrer=so",
+    "business": {
+      "name": "Mocha tans",
+      "merchant_id": "ML5WZE6EV2VG1",
+      "email": "mochatansmtl@gmail.com",
+      "currency_code": "CAD",
+      "timezone": "America/Toronto"
+    },
+    "location": {
+      "id": "lj8d8ms0mpwyt1",
+      "unit_token": "LTQ8SGNBX1WWH",
+      "name": "Mocha tans",
+      "address_line_1": "1200 Rue Gauthier",
+      "city": "Longueuil",
+      "state_province": "QC",
+      "postal_code": "J4T 3N7",
+      "city_state_zip": "Longueuil, QC J4T 3N7"
+    },
+    "hours_by_day": [
+      {
+        "day": "Sunday",
+        "windows": [
+          {
+            "open_24h": "12:00",
+            "close_24h": "17:00",
+            "open_seconds": 43200,
+            "close_seconds": 61200
+          }
+        ]
+      },
+      {
+        "day": "Monday",
+        "windows": [
+          {
+            "open_24h": "10:00",
+            "close_24h": "21:00",
+            "open_seconds": 36000,
+            "close_seconds": 75600
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "windows": [
+          {
+            "open_24h": "10:00",
+            "close_24h": "21:00",
+            "open_seconds": 36000,
+            "close_seconds": 75600
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "windows": [
+          {
+            "open_24h": "10:00",
+            "close_24h": "21:00",
+            "open_seconds": 36000,
+            "close_seconds": 75600
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "windows": [
+          {
+            "open_24h": "10:00",
+            "close_24h": "21:00",
+            "open_seconds": 36000,
+            "close_seconds": 75600
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "windows": [
+          {
+            "open_24h": "10:00",
+            "close_24h": "21:00",
+            "open_seconds": 36000,
+            "close_seconds": 75600
+          }
+        ]
+      },
+      {
+        "day": "Saturday",
+        "windows": [
+          {
+            "open_24h": "12:00",
+            "close_24h": "17:00",
+            "open_seconds": 43200,
+            "close_seconds": 61200
+          }
+        ]
+      }
+    ],
+    "services": [
+      {
+        "id": "GKQSPCGVEU3MMVLM4FRACAZT",
+        "name": "Spray tan Mocha rapide",
+        "description": "Avec le Mocha Rapide, \nOn vous offre un service haut de gamme avec un spray tan solution rapide - 1 à 6 heures avant le rinçage — parfait pour un résultat impeccable, sans attente interminable.\nVotre expérience inclut :\nune brume pour équilibrer le pH et préparer votre peau, une crème barrière, notre spray Tan Lock pour fixer la couleur, et une poudre matifiante pour une finition magnifique. Choix de collants gratuit pour une tan line personnalisée",
+        "price_cad": 55,
+        "price_cents": 5500,
+        "currency_code": "CAD",
+        "duration_minutes": 60,
+        "service_time_seconds": 3600,
+        "staff_ids": [
+          "zhei1udll19tdl"
+        ],
+        "image_tokens": [
+          "ZSRYZIAAOG267XA3BZQYSCWZ"
+        ]
+      },
+      {
+        "id": "Q5O23WTNP2EMYKONVZ26VKIY",
+        "name": "Spray tan Mocha à domicile",
+        "description": "Avec le Mocha À Domicile\nOn vous offre un service haut de gamme avec un spray tan solution rapide - 1 à 6 heures avant le rinçage — parfait pour un résultat impeccable, sans attente interminable. directement dans le confort de votre maison 🏡\nVotre expérience inclut :\nune brume pour équilibrer le pH et préparer votre peau, une crème barrière, notre spray Tan Lock pour fixer la couleur, et une poudre matifiante pour une finition magnifique. Choix de collants gratuit pour une tan line personnalisée. 55$ pour ajout de personnes supplémentaires",
+        "price_cad": 80,
+        "price_cents": 8000,
+        "currency_code": "CAD",
+        "duration_minutes": 60,
+        "service_time_seconds": 3600,
+        "staff_ids": [
+          "zhei1udll19tdl"
+        ],
+        "image_tokens": [
+          "XRZPRFSMD4E64VFIPN4SLNMH"
+        ]
+      },
+      {
+        "id": "TLRWFFA2DC3VDH6THOUG6MGN",
+        "name": "Spray tan Mocha groupe",
+        "description": "Description du service :\nAvec le Mocha Groupe, préparez-vous à glow ensemble ✨🤎\nOn vous offre un service haut de gamme avec un spray tan solution rapide - 1 à 6 heures avant le rinçage — parfait pour un résultat impeccable, sans attente interminable.\nVotre expérience inclut :\nune brume pour équilibrer le pH et préparer votre peau, une crème barrière, notre spray Tan Lock pour fixer la couleur, et une poudre matifiante pour une finition magnifique\nEn groupe, on vous gâte encore plus :\naccessoires jetables inclus (string spray tan, hair net, couvre-mamelons), choix de collants gratuit pour une tan line personnalisée, et même des petits goodies pour rendre l’expérience encore plus fun 🎁\nParce que bronzer entre amis, c’est toujours une meilleure idée ☀️\nMinimum 4 personnes 35$ de plus pour chaque personnes ajoutées **",
+        "price_cad": 190,
+        "price_cents": 19000,
+        "currency_code": "CAD",
+        "duration_minutes": 240,
+        "service_time_seconds": 14400,
+        "staff_ids": [
+          "zhei1udll19tdl"
+        ],
+        "image_tokens": [
+          "JOUXROCA4JG6EKMHXIMUFNOR"
+        ]
+      }
+    ]
+  },
+  "extracted_summary": {
+    "hours_primary_source": "Instagram pinned post DYQVVMqO2Do",
+    "hours": [
+      {
+        "day": "Monday",
+        "hours": "10:00-21:00"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:00-21:00"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:00-21:00"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:00-21:00"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:00-21:00"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12:00-17:00"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12:00-17:00"
+      }
+    ],
+    "services_count": 3,
+    "services_prices": [
+      {
+        "name": "Spray tan Mocha rapide",
+        "price_cad": 55,
+        "duration_minutes": 60
+      },
+      {
+        "name": "Spray tan Mocha à domicile",
+        "price_cad": 80,
+        "duration_minutes": 60
+      },
+      {
+        "name": "Spray tan Mocha groupe",
+        "price_cad": 190,
+        "duration_minutes": 240
+      }
+    ],
+    "faq_source": "Instagram highlight FAQ",
+    "reviews_source": "Instagram highlight REVIEWS",
+    "faq_and_reviews_story_frames_extracted": false
+  },
+  "collection_assets_summary": {
+    "instagram_post_media_files_downloaded": 206,
+    "instagram_highlight_cover_images_downloaded": 18,
+    "instagram_total_files_in_instagram_folder": 224,
+    "square_images_downloaded": 13,
+    "total_files_in_images_all_folder": 213,
+    "images_all_folder": "/Users/arshiasalehi/Desktop/mochatansmtl/data/images/all"
+  },
+  "limitations": [
+    "Instagram highlight story frames (reviews/FAQ/pages inside highlights) were not returned in logged-out API responses during this run.",
+    "Highlight cover images were downloaded and indexed, but full story-item media extraction requires an authenticated session or different platform access path."
+  ]
+}
