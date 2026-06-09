@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>MOCHA | Luxury Tanning</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400..900;1,400..900&amp;family=Manrope:wght@200..800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "primary-fixed": "#fedcbe",
+                        "surface-dim": "#dcdad5",
+                        "on-primary-fixed-variant": "#59422c",
+                        "on-secondary": "#ffffff",
+                        "on-error-container": "#93000a",
+                        "secondary": "#78582f",
+                        "secondary-fixed-dim": "#eabf8d",
+                        "surface-bright": "#fcf9f4",
+                        "on-secondary-fixed": "#2a1700",
+                        "inverse-primary": "#e1c1a4",
+                        "surface-container-high": "#ebe8e3",
+                        "surface-container": "#f0ede9",
+                        "on-primary-fixed": "#291806",
+                        "error-container": "#ffdad6",
+                        "on-error": "#ffffff",
+                        "on-tertiary-container": "#f8863a",
+                        "on-surface": "#1c1c19",
+                        "surface-container-lowest": "#ffffff",
+                        "tertiary-fixed": "#ffdbc9",
+                        "on-primary": "#ffffff",
+                        "on-background": "#1c1c19",
+                        "outline-variant": "#d2c4ba",
+                        "surface-tint": "#725a42",
+                        "tertiary-container": "#622a00",
+                        "secondary-container": "#fed39f",
+                        "surface-variant": "#e5e2dd",
+                        "surface": "#fcf9f4",
+                        "tertiary-fixed-dim": "#ffb68d",
+                        "outline": "#80756c",
+                        "on-secondary-fixed-variant": "#5e411a",
+                        "on-tertiary-fixed": "#321200",
+                        "primary": "#33210d",
+                        "inverse-surface": "#31302d",
+                        "primary-fixed-dim": "#e1c1a4",
+                        "error": "#ba1a1a",
+                        "background": "#fcf9f4",
+                        "surface-container-low": "#f6f3ee",
+                        "tertiary": "#411900",
+                        "on-tertiary-fixed-variant": "#763400",
+                        "surface-container-highest": "#e5e2dd",
+                        "on-surface-variant": "#4e453d",
+                        "on-tertiary": "#ffffff",
+                        "secondary-fixed": "#ffddb7",
+                        "on-secondary-container": "#795930",
+                        "inverse-on-surface": "#f3f0eb",
+                        "on-primary-container": "#bd9f83",
+                        "primary-container": "#4b3621"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "section-padding-desktop": "120px",
+                        "gutter": "24px",
+                        "base": "8px",
+                        "section-padding-mobile": "48px",
+                        "margin-safe": "32px"
+                    },
+                    "fontFamily": {
+                        "headline-lg": ["Bodoni Moda"],
+                        "label-sm": ["Manrope"],
+                        "headline-lg-mobile": ["Bodoni Moda"],
+                        "headline-md": ["Bodoni Moda"],
+                        "body-md": ["Manrope"],
+                        "display-lg": ["Bodoni Moda"],
+                        "body-lg": ["Manrope"]
+                    },
+                    "fontSize": {
+                        "headline-lg": ["48px", {"lineHeight": "1.2", "fontWeight": "600"}],
+                        "label-sm": ["12px", {"lineHeight": "1.2", "letterSpacing": "0.1em", "fontWeight": "600"}],
+                        "headline-lg-mobile": ["32px", {"lineHeight": "1.2", "fontWeight": "600"}],
+                        "headline-md": ["24px", {"lineHeight": "1.3", "fontWeight": "500"}],
+                        "body-md": ["16px", {"lineHeight": "1.5", "fontWeight": "400"}],
+                        "display-lg": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.02em", "fontWeight": "700"}],
+                        "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+        }
+        .text-glow {
+            text-shadow: 0 0 20px rgba(193, 154, 107, 0.2);
+        }
+        .before-after-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 2px;
+            height: 100vh;
+            background: white;
+            cursor: ew-resize;
+        }
+    </style>
+</head>
+<body class="bg-background text-on-background selection:bg-primary-fixed selection:text-primary">
+<div class="fixed top-0 left-0 z-50 flex h-7 w-full items-center border-b border-outline-variant/30 bg-surface/90 backdrop-blur-md">
+<div class="mx-auto flex items-center gap-2">
+<a class="inline-flex h-5 w-7 items-center justify-center rounded-full text-[0.68rem] font-semibold text-on-surface-variant transition-colors hover:bg-surface-container hover:text-on-surface" href="/">1</a>
+<a class="inline-flex h-5 w-7 items-center justify-center rounded-full text-[0.68rem] font-semibold text-on-surface-variant transition-colors hover:bg-surface-container hover:text-on-surface" href="/preview-drafts/italian-coastal-minimalism.html">2</a>
+<a aria-current="page" class="inline-flex h-5 w-7 items-center justify-center rounded-full bg-primary text-[0.68rem] font-semibold text-on-primary" href="/preview-drafts/mocha-luxury-tanning.html">3</a>
+</div>
+</div>
+<!-- Header Navigation -->
+<header class="docked full-width top-7 sticky z-40 bg-surface/90 backdrop-blur-md border-b border-outline-variant/30">
+<nav class="flex justify-between items-center w-full px-margin-safe py-6 max-w-[1280px] mx-auto">
+<div class="font-headline-md text-headline-md tracking-widest text-primary">MOCHA</div>
+<div class="hidden md:flex gap-10 items-center">
+<a class="text-on-surface-variant font-label-sm text-label-sm uppercase hover:text-secondary transition-colors duration-300" href="#">Services</a>
+<a class="text-on-surface-variant font-label-sm text-label-sm uppercase hover:text-secondary transition-colors duration-300" href="#">Bundles</a>
+<a class="text-on-surface-variant font-label-sm text-label-sm uppercase hover:text-secondary transition-colors duration-300" href="#">About Us</a>
+<a class="text-on-surface-variant font-label-sm text-label-sm uppercase hover:text-secondary transition-colors duration-300" href="#">Contact Us</a>
+</div>
+<button class="bg-primary text-on-primary px-8 py-3 font-label-sm text-label-sm uppercase tracking-widest transition-transform hover:scale-105 active:scale-95 duration-300">
+                Book Now
+            </button>
+</nav>
+</header>
+<main>
+<!-- Hero Section -->
+<section class="relative h-[90vh] flex items-center overflow-hidden">
+<div class="absolute inset-0 z-0">
+<img class="w-full h-full object-cover" data-alt="A sun-drenched, high-fashion portrait of a woman with a deep, golden mediterranean tan lounging by a turquoise pool in Monaco. The lighting is warm and cinematic, capturing the essence of an Italian summer with soft golden hour glows. The overall aesthetic is minimalist and elite, with a color palette dominated by creams, rich mocha tones, and soft sand colors." src="https://lh3.googleusercontent.com/aida-public/AB6AXuD6vsriQUM-W92uOBcqSapeV4asnGox07ndWbCkQamx7iGRoMG6P2m1MxNNgGu6HhoXsNGzK8IhMIv25W1b8WObnAVOleYjbFpMQRtkA3wD58_xhu_Ks7trmukSxydyj-eB4t8lgfSTZld_R4RvRTWIwpuJnZGAJeW6emILZZdzBYAeYeuCA8PyvDUbywo8anEKehMoKDdW6jrEgCLCqHnHgOuBjq4-VlfiSGZ1DvGYpIN59EnpBL5Ipmhhbl8m9yaetHkpQh-hOzM"/>
+<div class="absolute inset-0 bg-gradient-to-r from-background/40 to-transparent"></div>
+</div>
+<div class="relative z-10 w-full max-w-[1280px] mx-auto px-margin-safe">
+<div class="max-w-2xl">
+<h1 class="font-display-lg text-display-lg md:text-[80px] mb-8 leading-none">The Ultimate <br/><span class="italic font-light">Glow</span></h1>
+<div class="grid grid-cols-2 md:flex md:flex-row gap-6 md:gap-12 mb-12">
+<div class="flex items-center gap-3 opacity-0 animate-[fadeIn_1s_ease-out_forwards]">
+<span class="material-symbols-outlined text-primary" data-icon="star" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="font-label-sm text-label-sm uppercase tracking-wider">Five Star Rated</span>
+</div>
+<div class="flex items-center gap-3 opacity-0 animate-[fadeIn_1s_0.2s_ease-out_forwards]">
+<span class="material-symbols-outlined text-primary" data-icon="lock" style="font-variation-settings: 'FILL' 1;">lock</span>
+<span class="font-label-sm text-label-sm uppercase tracking-wider">Secure Payment</span>
+</div>
+<div class="flex items-center gap-3 opacity-0 animate-[fadeIn_1s_0.4s_ease-out_forwards]">
+<span class="material-symbols-outlined text-primary" data-icon="verified" style="font-variation-settings: 'FILL' 1;">verified</span>
+<span class="font-label-sm text-label-sm uppercase tracking-wider">Certified Artist</span>
+</div>
+<div class="flex items-center gap-3 opacity-0 animate-[fadeIn_1s_0.6s_ease-out_forwards]">
+<span class="material-symbols-outlined text-primary" data-icon="home_pin" style="font-variation-settings: 'FILL' 1;">home_pin</span>
+<span class="font-label-sm text-label-sm uppercase tracking-wider">Mobile + Studio</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Our Services -->
+<section class="py-section-padding-desktop px-margin-safe max-w-[1280px] mx-auto">
+<div class="flex flex-col md:flex-row justify-between items-end mb-20">
+<div class="max-w-xl">
+<h2 class="font-headline-lg text-headline-lg mb-4">The Art of Bronze</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant">Tailored tanning experiences designed to evoke the effortless elegance of a Mediterranean summer.</p>
+</div>
+<a class="hidden md:block font-label-sm text-label-sm uppercase border-b border-primary pb-1 hover:text-secondary hover:border-secondary transition-all" href="#">View All Services</a>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<!-- Card 1 -->
+<div class="group cursor-pointer">
+<div class="aspect-[3/4] overflow-hidden mb-6 relative">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" data-alt="A high-end lifestyle shot of a woman's legs featuring a perfect, natural golden tan while standing on a sun-bleached wooden deck. The background shows a hint of a luxury villa in the Italian countryside. The lighting is bright and airy, emphasizing skin texture and the warm, creamy aesthetic of the brand." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCieT2DCgEAOBZ1HO2_YZZ2E3toDXIXqkAvkNp0BwD94_W6pV6YyeWNT5MlWWbIMpXhH2Cy5WI8VwH57Yv5bzi99v0cjcLXc7TQdAC_3TLi9UslYkGUMug8wbjHYe7CVR1i1ygDWC5OLonue3DmeayVcWPOc9dYOsoahGsMmJWwGSQgQ2GyUn2PMeyiNl3cbudowoUDMG28V7NWqQ6xYcUYY509BfRi2BinDJo6wdEJeEc6mCaJ2layUq0TAQmv8LzHo-NJyC-57Ic"/>
+<div class="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+</div>
+<div class="flex justify-between items-baseline mb-2">
+<h3 class="font-headline-md text-headline-md">Riviera Radiant</h3>
+<span class="font-body-md text-body-md">$65</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant opacity-70">A soft, sun-kissed glow perfect for daily luxury.</p>
+</div>
+<!-- Card 2 -->
+<div class="group cursor-pointer">
+<div class="aspect-[3/4] overflow-hidden mb-6 relative">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" data-alt="Close-up detail of smooth, tanned skin with a hint of shimmer, reflecting soft golden sunlight. The setting is a minimalist luxury spa environment with sand and cream textures. Professional fashion photography style with high-end lighting and warm color grading to represent premium tanning services." src="https://lh3.googleusercontent.com/aida-public/AB6AXuBYxVNnKXJOwMACFGeGQl2mmshFKW9PYsodA-5xqGUF4zvukg-zkMriyJgSgMH_eNJtHdSBs2ga1B49ABvCiu3iWFtwLmmt89yPaE55BuaZ0mvYCex7WuDSEv3mmtpVc9pNA_ktJqA8ErgPN_tBB_upeLs5SQpRxz_liFx5odMclf4IzlNvJ_JQheEbOmlxeDNBPgkNC6kC1QggD99ELU8kRsql8kiXvkNzOgHqUKFeKI-iqnhYMWAHrj5rWqLK-YWSNh371JzxLQ4"/>
+<div class="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+</div>
+<div class="flex justify-between items-baseline mb-2">
+<h3 class="font-headline-md text-headline-md">Monaco Deep</h3>
+<span class="font-body-md text-body-md">$85</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant opacity-70">Intense, rich pigments for that deep holiday depth.</p>
+</div>
+<!-- Card 3 -->
+<div class="group cursor-pointer">
+<div class="aspect-[3/4] overflow-hidden mb-6 relative">
+<img class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110" data-alt="A portrait of an elegantly tanned woman wearing white linen against a minimalist sand-colored backdrop. The scene captures the high-end, old money aesthetic of European summer resorts. Soft ambient glow mimics diffused sunlight, creating a sophisticated and professional editorial atmosphere." src="https://lh3.googleusercontent.com/aida-public/AB6AXuB_MhVuwBLG5zX1vfLMyJ2nkkpstv6zb0q58Yim0pWBkGX-2bWRH3X05rLLjqUy9PCYf_boYIjDyp0QFwARey3QJc75kCtoTEPEuR1fq1FH7XwddcrT3V3p6JUGQX_Srpw_Mk7Fmi8-xQOYkdbfsPym6xGsUSYmJTmu_aWGpJT1Se9JcCA_5e-YoudffgPGEcDkT0MjL_IXawYuZnuVd_loGOLunsq9BfBd4fq6JCpw7KqbS9cY0fL5ep-3zwVfn0L1CsNqXt2MxEo"/>
+<div class="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+</div>
+<div class="flex justify-between items-baseline mb-2">
+<h3 class="font-headline-md text-headline-md">The Signature</h3>
+<span class="font-body-md text-body-md">$110</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant opacity-70">Our most premium blend with hydration infusion.</p>
+</div>
+</div>
+</section>
+<!-- Bundles - Bento Grid -->
+<section class="bg-surface-container-low py-section-padding-desktop">
+<div class="max-w-[1280px] mx-auto px-margin-safe">
+<h2 class="font-headline-lg text-headline-lg text-center mb-16">Curated Bundles</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 grid-rows-2 gap-6 h-auto md:h-[600px]">
+<div class="md:col-span-2 bg-surface-container-lowest p-10 flex flex-col justify-between group relative overflow-hidden">
+<div>
+<span class="bg-secondary-container text-on-secondary-container px-3 py-1 font-label-sm text-label-sm uppercase rounded-full mb-6 inline-block">Best Seller</span>
+<h3 class="font-headline-lg text-headline-lg mb-4">Summer Season Pass</h3>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-sm">Enjoy unlimited radiance throughout the warmer months with our exclusive seasonal membership.</p>
+</div>
+<div class="flex items-end justify-between">
+<span class="font-headline-md text-headline-md">$299 / Season</span>
+<button class="bg-primary text-on-primary px-8 py-3 font-label-sm text-label-sm uppercase">Secure Bundle</button>
+</div>
+</div>
+<div class="bg-primary-container p-10 flex flex-col justify-between text-on-primary-container">
+<h3 class="font-headline-md text-headline-md">Wedding Glow</h3>
+<p class="font-body-md text-body-md opacity-80">Three sessions + trial for your big day.</p>
+<span class="font-headline-md text-headline-md mt-6">$180</span>
+</div>
+<div class="bg-surface-container-highest p-10 flex flex-col justify-between">
+<h3 class="font-headline-md text-headline-md">Traveler Duo</h3>
+<p class="font-body-md text-body-md text-on-surface-variant">Two sessions for your departure and return.</p>
+<span class="font-headline-md text-headline-md mt-6">$120</span>
+</div>
+<div class="md:col-span-2 bg-secondary p-10 flex flex-col md:flex-row justify-between items-center text-on-secondary">
+<div class="mb-6 md:mb-0">
+<h3 class="font-headline-md text-headline-md mb-2">Corporate Elite</h3>
+<p class="font-body-md text-body-md opacity-80">Bulk bookings for executive teams and events.</p>
+</div>
+<button class="border border-on-secondary text-on-secondary px-8 py-3 font-label-sm text-label-sm uppercase hover:bg-on-secondary hover:text-secondary transition-colors">Inquire Now</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Before & After Slider -->
+<section class="py-section-padding-desktop">
+<div class="max-w-[1280px] mx-auto px-margin-safe">
+<div class="text-center mb-16">
+<h2 class="font-headline-lg text-headline-lg mb-4">Real Transformations</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant">Slide to reveal the Mocha difference.</p>
+</div>
+<div class="relative w-full aspect-video md:aspect-[21/9] overflow-hidden group">
+<div class="absolute inset-0">
+<img class="w-full h-full object-cover" data-alt="Close up of fair skin tone before a tanning treatment, photographed in professional clinical lighting to show even texture and natural pale complexion. Minimalist spa background." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDHpsxhGxQjZBTkLjUY2N9kfLj4wkiXqGnVB8TZ7fYKRWnDcRlZaNEn_sXEYabGeiCfWrkHhYFswdJcpGxIIKYDoBkVvG8g4260kGUVY1Kfuro0NN1IkdD_ABfhtafAD-lsLStrKwKSNP7qJOO0lO8md4CrCCL9kQQ_A_zOeJSUA0uice1XoqAYWt25ex6kPW1kyeu3NlwN16y-0IwUM9tP1tOOi3HmbypIjOwa-C4xAcjREPehx7xbRoykzDZHyXnnzB9DWgp8etQ"/>
+</div>
+<div class="absolute inset-0 overflow-hidden" id="after-img" style="width: 50%;">
+<img class="w-screen h-full object-cover" data-alt="Close up of deep golden tanned skin after a premium Mocha tanning treatment, photographed in warm, sun-kissed lighting that highlights the radiant bronze finish. Minimalist luxury setting." src="https://lh3.googleusercontent.com/aida-public/AB6AXuCyJYWH3ohmSTL-aPH9XvZGIkUCwDbWGUG3H9e-beKCGmTnnLwbSQCZKqcm6PjB5HTzuI9TdlpQQ2OHCBF6UzJ-TM_Xc3dxlZnw2So4atxMV0lJWNBNh5GRg4lETw8j01ilx9XrgKDGoaw9-6xTQgyUONLMbtAKxwTWGLKHcxUNt0ZK9Al8HLoEmyNPHpAFFOy0Gd0VmaauXlHUC7EYrrSRjzggbSw7sDwbHB_HoQKL7dWOKnpK5Lu-cOSnvZaGc3XEpDEmSRNqtlA"/>
+</div>
+<input class="absolute inset-0 w-full h-full opacity-0 cursor-ew-resize z-20 before-after-slider" max="100" min="0" oninput="document.getElementById('after-img').style.width = this.value + '%'; document.getElementById('slider-line').style.left = this.value + '%';" type="range" value="50"/>
+<div class="absolute top-0 bottom-0 left-1/2 w-0.5 bg-white z-10 pointer-events-none" id="slider-line">
+<div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-10 h-10 bg-white rounded-full flex items-center justify-center shadow-lg">
+<span class="material-symbols-outlined text-primary text-sm">unfold_more</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Real Results & Ratings -->
+<section class="py-section-padding-desktop bg-surface-container-lowest">
+<div class="max-w-[1280px] mx-auto px-margin-safe">
+<h2 class="font-headline-lg text-headline-lg text-center mb-16">The Mocha Glow Club</h2>
+<div class="columns-1 md:columns-3 gap-6 space-y-6">
+<div class="relative overflow-hidden break-inside-avoid shadow-sm border border-outline-variant/20">
+<img class="w-full h-auto" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD0Kpo4efOo_fp53Yb0lITqRveTPJoNZJoXaZpzPMI1_vWsKuAlRcJUaCSXM9boUH1Lt1wlIi1hr8Cmls5Pc_NfR55hgRN4D2ecAfBMTlsAZtbBFkQPir3eecJ7H5w-0SCfLoS9n0VVzWY6_kLXWy1RsdKTca8C8TP6jA-jpJRen3RxWJItojAH714Kpdlq6UyXMZ9UhAMRoaigFPqpFe9z_oHItrXVoJvnDyrmZss7JWqT67lL36ZPZ-CzykwSfJUu7KKcmv1XBzk"/>
+<div class="p-6 bg-white">
+<div class="flex gap-1 mb-2">
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+</div>
+<p class="font-body-md text-body-md italic">"Absolutely flawless. The deepest tan I've ever had that still looks completely natural."</p>
+<span class="font-label-sm text-label-sm block mt-4 uppercase tracking-widest text-on-surface-variant">— Elena M.</span>
+</div>
+</div>
+<div class="relative overflow-hidden break-inside-avoid shadow-sm border border-outline-variant/20">
+<img class="w-full h-auto" data-alt="A portrait of a tanned model in a shimmering black cocktail dress, laughing in a dimly lit, high-end private event setting. The golden tan stands out beautifully against the dark environment, with high-contrast, professional lighting creating a luxurious party mood." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAlXmo4yjZpY4c5iyjhyjntOyWNRnjBFjJ7wTSK1W5ZovOr3JYRxUfyru0BHK63F4jlT3-WvCwUq8dPDCfva4zC7-Cn4R5s4gN_d3W7C5AdZSQDhpl88BR0UpMv4376hRhvUSoyrJyYrcJ3zSlFGIjxZxNz00KKJ34doRfpejsarERCatBpWktIC_C2wD1KucpZa_ptCa64IuVHkG11tWa1KfwyBL9msjmmR6sW6z4JlEt8a5rop1J-geouguEMGTtc67NuaZSiERo"/>
+<div class="p-6 bg-white">
+<div class="flex gap-1 mb-2">
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+</div>
+<p class="font-body-md text-body-md italic">"The only place I trust for my event glows. No streaks, no smell, just perfection."</p>
+<span class="font-label-sm text-label-sm block mt-4 uppercase tracking-widest text-on-surface-variant">— Sophia R.</span>
+</div>
+</div>
+<div class="relative overflow-hidden break-inside-avoid shadow-sm border border-outline-variant/20">
+<img class="w-full h-auto" data-alt="Two friends with radiant, sun-kissed skin lounging on a wooden deck by a pristine blue swimming pool. They are laughing, wearing elegant swimwear, capturing a moment of pure summer joy. The lighting is bright midday sun, perfectly demonstrating the natural-looking results of professional spray tanning." src="https://lh3.googleusercontent.com/aida-public/AB6AXuDee-3LLSKet066eFMxB9yfJBSxKHuUFFSPpH5x0kAqhsQXmdkKapcErofz05LAhY6Il5KYP9VustXb6dFbBjBFKcJW6CY4RF6pfqqk1p3_IjZb_HnY1Tgj_txmSb2enRC9x1qwtjhZymaJLef6LUfQwefnV8fZarw6v_InJV-Lm31WIZChmPgCc5NilVSI2TLORrKixUqE6Wffi95c0emmj5lCFjZnSb3qjpudUREzNKjfNRAU-9vKrKbZFhMoZTa665Hpe8D5ckk"/>
+<div class="p-6 bg-white">
+<div class="flex gap-1 mb-2">
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+<span class="material-symbols-outlined text-tertiary-container text-xs" style="font-variation-settings: 'FILL' 1;">star</span>
+</div>
+<p class="font-body-md text-body-md italic">"Our favorite pre-vacation ritual. We literally look like we've been in Italy for weeks."</p>
+<span class="font-label-sm text-label-sm block mt-4 uppercase tracking-widest text-on-surface-variant">— The Duo</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Common Questions -->
+<section class="py-section-padding-desktop max-w-3xl mx-auto px-margin-safe">
+<h2 class="font-headline-lg text-headline-lg text-center mb-16">Common Questions</h2>
+<div class="space-y-6">
+<details class="group border-b border-outline-variant/30 pb-6 cursor-pointer">
+<summary class="flex justify-between items-center list-none font-headline-md text-headline-md">
+                        How long does a Mocha tan last?
+                        <span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
+</summary>
+<p class="mt-4 font-body-md text-body-md text-on-surface-variant">With proper hydration and care, our signature tans typically last between 7 to 10 days, fading evenly just like a natural tan.</p>
+</details>
+<details class="group border-b border-outline-variant/30 pb-6 cursor-pointer">
+<summary class="flex justify-between items-center list-none font-headline-md text-headline-md">
+                        When should I book for an event?
+                        <span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
+</summary>
+<p class="mt-4 font-body-md text-body-md text-on-surface-variant">We recommend booking your session 2 days before your scheduled event to allow the tan to settle and develop its most natural glow.</p>
+</details>
+<details class="group border-b border-outline-variant/30 pb-6 cursor-pointer">
+<summary class="flex justify-between items-center list-none font-headline-md text-headline-md">
+                        Is it safe for sensitive skin?
+                        <span class="material-symbols-outlined transition-transform group-open:rotate-180">expand_more</span>
+</summary>
+<p class="mt-4 font-body-md text-body-md text-on-surface-variant">Absolutely. Our formulas are organic-based, paraben-free, and designed with skin health as the primary priority.</p>
+</details>
+</div>
+</section>
+<!-- CTA Bar -->
+<section class="bg-primary py-24 text-center">
+<div class="max-w-[1280px] mx-auto px-margin-safe">
+<h2 class="font-display-lg text-display-lg text-white mb-10">Ready for your glow?</h2>
+<div class="flex flex-col md:flex-row gap-6 justify-center">
+<button class="bg-white text-primary px-12 py-5 font-label-sm text-label-sm uppercase tracking-widest hover:bg-secondary-fixed transition-colors">
+                        Book Your Appointment
+                    </button>
+<button class="border border-white/30 text-white px-12 py-5 font-label-sm text-label-sm uppercase tracking-widest hover:bg-white/10 transition-colors">
+                        Contact Us
+                    </button>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-surface-container-lowest py-section-padding-desktop border-t border-outline-variant/20">
+<div class="flex flex-col md:flex-row justify-between items-center gap-base px-margin-safe max-w-[1280px] mx-auto text-center md:text-left">
+<div class="font-headline-md text-headline-md text-primary">MOCHA</div>
+<div class="flex gap-8 my-8 md:my-0">
+<a class="text-on-surface-variant opacity-70 font-label-sm text-label-sm uppercase hover:text-tertiary transition-opacity duration-300" href="#">Privacy Policy</a>
+<a class="text-on-surface-variant opacity-70 font-label-sm text-label-sm uppercase hover:text-tertiary transition-opacity duration-300" href="#">Terms of Service</a>
+<a class="text-on-surface-variant opacity-70 font-label-sm text-label-sm uppercase hover:text-tertiary transition-opacity duration-300" href="#">Sustainability</a>
+<a class="text-on-surface-variant opacity-70 font-label-sm text-label-sm uppercase hover:text-tertiary transition-opacity duration-300" href="#">Careers</a>
+</div>
+<p class="text-on-surface-variant opacity-70 font-label-sm text-label-sm uppercase tracking-wider">
+                © 2024 MOCHA LUXURY TANNING. ALL RIGHTS RESERVED.
+            </p>
+</div>
+</footer>
+<script>
+        // Smooth reveal on scroll for elements
+        const observerOptions = {
+            threshold: 0.1
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('opacity-100', 'translate-y-0');
+                    entry.target.classList.remove('opacity-0', 'translate-y-10');
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('section > div').forEach(el => {
+            el.classList.add('transition-all', 'duration-1000', 'opacity-0', 'translate-y-10');
+            observer.observe(el);
+        });
+    </script>
+<style>
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</body></html>

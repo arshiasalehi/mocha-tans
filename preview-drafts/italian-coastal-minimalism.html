@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>AURA SOLIS | Luxury Spray Tanning &amp; Coastal Glow</title>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&amp;family=DM+Sans:wght@400;500;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "inverse-surface": "#30312e",
+                        "on-primary": "#ffffff",
+                        "primary-fixed-dim": "#fdb790",
+                        "on-secondary-fixed-variant": "#47492d",
+                        "secondary-fixed-dim": "#c8c9a5",
+                        "on-secondary": "#ffffff",
+                        "surface-variant": "#e4e2de",
+                        "surface-container-high": "#eae8e4",
+                        "secondary": "#5f6043",
+                        "on-primary-container": "#4f2509",
+                        "surface-container": "#efeeea",
+                        "surface-bright": "#fbf9f5",
+                        "inverse-primary": "#fdb790",
+                        "tertiary-fixed-dim": "#a5cdda",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary-container": "#093641",
+                        "primary-container": "#c98a66",
+                        "on-tertiary-fixed-variant": "#244c57",
+                        "inverse-on-surface": "#f2f0ed",
+                        "surface-tint": "#865132",
+                        "primary": "#865132",
+                        "error": "#ba1a1a",
+                        "on-background": "#1b1c1a",
+                        "outline-variant": "#d7c2b9",
+                        "error-container": "#ffdad6",
+                        "surface-container-low": "#f5f3ef",
+                        "on-surface-variant": "#52443d",
+                        "tertiary-fixed": "#c1e9f7",
+                        "surface": "#fbf9f5",
+                        "secondary-fixed": "#e4e5c0",
+                        "secondary-container": "#e4e5c0",
+                        "tertiary-container": "#789fac",
+                        "background": "#fbf9f5",
+                        "on-secondary-container": "#656649",
+                        "on-error-container": "#93000a",
+                        "on-error": "#ffffff",
+                        "primary-fixed": "#ffdbc9",
+                        "on-primary-fixed": "#331200",
+                        "on-tertiary-fixed": "#001f27",
+                        "surface-container-highest": "#e4e2de",
+                        "on-surface": "#1b1c1a",
+                        "outline": "#84746b",
+                        "tertiary": "#3d6470",
+                        "on-secondary-fixed": "#1b1d06",
+                        "on-primary-fixed-variant": "#6a3a1d",
+                        "surface-dim": "#dbdad6",
+                        "on-tertiary": "#ffffff"
+                    },
+                    "borderRadius": {
+                        "DEFAULT": "0.125rem",
+                        "lg": "0.25rem",
+                        "xl": "0.5rem",
+                        "full": "0.75rem"
+                    },
+                    "spacing": {
+                        "unit": "8px",
+                        "margin-mobile": "24px",
+                        "margin-desktop": "64px",
+                        "container-max": "1280px",
+                        "section-gap": "120px",
+                        "gutter": "24px"
+                    },
+                    "fontFamily": {
+                        "headline-lg": ["Libre Caslon Text"],
+                        "headline-lg-mobile": ["Libre Caslon Text"],
+                        "headline-md": ["Libre Caslon Text"],
+                        "label-caps": ["DM Sans"],
+                        "display-lg": ["Libre Caslon Text"],
+                        "body-md": ["DM Sans"],
+                        "body-lg": ["DM Sans"]
+                    },
+                    "fontSize": {
+                        "headline-lg": ["48px", {"lineHeight": "1.2", "fontWeight": "400"}],
+                        "headline-lg-mobile": ["32px", {"lineHeight": "1.2", "fontWeight": "400"}],
+                        "headline-md": ["32px", {"lineHeight": "1.3", "fontWeight": "400"}],
+                        "label-caps": ["12px", {"lineHeight": "1.0", "letterSpacing": "0.15em", "fontWeight": "500"}],
+                        "display-lg": ["64px", {"lineHeight": "1.1", "letterSpacing": "-0.02em", "fontWeight": "400"}],
+                        "body-md": ["16px", {"lineHeight": "1.6", "fontWeight": "400"}],
+                        "body-lg": ["18px", {"lineHeight": "1.6", "fontWeight": "400"}]
+                    }
+                },
+            },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+
+        /* Motion System */
+        @media (prefers-reduced-motion: no-preference) {
+            .reveal { 
+                opacity: 0; 
+                transform: translateY(30px); 
+                transition: opacity 1.2s cubic-bezier(0.21, 0.6, 0.35, 1), transform 1.2s cubic-bezier(0.21, 0.6, 0.35, 1); 
+            }
+            .reveal.active { 
+                opacity: 1; 
+                transform: translateY(0); 
+            }
+
+            .parallax-container { overflow: hidden; }
+            .parallax-image { transition: transform 0.1s linear; }
+
+            .hero-ambient {
+                animation: breathing 20s ease-in-out infinite;
+            }
+
+            @keyframes breathing {
+                0%, 100% { transform: scale(1); }
+                50% { transform: scale(1.05); }
+            }
+
+            .hover-lift {
+                transition: transform 0.5s cubic-bezier(0.21, 0.6, 0.35, 1), box-shadow 0.5s cubic-bezier(0.21, 0.6, 0.35, 1);
+            }
+            .hover-lift:hover {
+                transform: translateY(-8px);
+                box-shadow: 0 20px 40px -15px rgba(201, 138, 102, 0.15);
+            }
+
+            .image-reveal-clip { 
+                clip-path: inset(0 100% 0 0); 
+                transition: clip-path 1.4s cubic-bezier(0.77, 0, 0.175, 1); 
+            }
+            .image-reveal-clip.active { 
+                clip-path: inset(0 0 0 0); 
+            }
+            
+            .accordion-content {
+                max-height: 0;
+                overflow: hidden;
+                transition: max-height 0.5s cubic-bezier(0.4, 0, 0.2, 1), padding 0.5s ease;
+            }
+            .accordion-content.active {
+                max-height: 200px;
+                padding-top: 1rem;
+            }
+        }
+
+        .ambient-shadow { box-shadow: 0 20px 40px -20px rgba(201, 138, 102, 0.15); }
+        .before-after-slider { position: relative; width: 100%; height: 500px; overflow: hidden; cursor: ew-resize; }
+        .slider-handle { position: absolute; top: 0; bottom: 0; width: 2px; background: white; z-index: 10; pointer-events: none; }
+        .slider-circle { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 44px; height: 44px; border: 2px solid white; border-radius: 50%; background: rgba(255,255,255,0.2); backdrop-filter: blur(4px); display: flex; align-items: center; justify-content: center; transition: transform 0.3s ease; }
+        .before-after-slider:hover .slider-circle { transform: translate(-50%, -50%) scale(1.1); }
+    </style>
+</head>
+<body class="bg-surface text-on-surface font-body-md selection:bg-primary-container selection:text-on-primary-container">
+<div class="fixed top-0 left-0 z-50 flex h-7 w-full items-center border-b border-outline-variant/10 bg-surface/90 backdrop-blur-md">
+<div class="mx-auto flex items-center gap-2">
+<a class="inline-flex h-5 w-7 items-center justify-center rounded-full text-[0.68rem] font-semibold text-on-surface-variant transition-colors hover:bg-surface-container hover:text-on-surface" href="/">1</a>
+<a aria-current="page" class="inline-flex h-5 w-7 items-center justify-center rounded-full bg-primary text-[0.68rem] font-semibold text-on-primary" href="/preview-drafts/italian-coastal-minimalism.html">2</a>
+<a class="inline-flex h-5 w-7 items-center justify-center rounded-full text-[0.68rem] font-semibold text-on-surface-variant transition-colors hover:bg-surface-container hover:text-on-surface" href="/preview-drafts/mocha-luxury-tanning.html">3</a>
+</div>
+</div>
+<header class="fixed top-7 w-full z-40 bg-surface/80 backdrop-blur-md border-b border-outline-variant/10">
+<div class="flex justify-between items-center w-full px-margin-mobile md:px-margin-desktop py-6 max-w-container-max mx-auto">
+<a class="font-headline-md text-headline-md text-primary tracking-tighter uppercase transition-opacity hover:opacity-70" href="#">AURA SOLIS</a>
+<nav class="hidden md:flex gap-10">
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all duration-300 relative after:content-[''] after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-primary hover:after:w-full after:transition-all" href="#services">Services</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all duration-300 relative after:content-[''] after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-primary hover:after:w-full after:transition-all" href="#bundles">Bundles</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all duration-300 relative after:content-[''] after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-primary hover:after:w-full after:transition-all" href="#results">Results</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-primary transition-all duration-300 relative after:content-[''] after:absolute after:bottom-[-4px] after:left-0 after:w-0 after:h-[1px] after:bg-primary hover:after:w-full after:transition-all" href="#contact">Contact Us</a>
+</nav>
+<div class="flex items-center gap-6">
+<button class="material-symbols-outlined text-primary hover:scale-110 transition-transform">search</button>
+<button class="bg-primary text-on-primary px-8 py-3 font-label-caps text-label-caps uppercase tracking-widest hover:brightness-110 active:scale-95 transition-all">Book Now</button>
+</div>
+</div>
+</header>
+<main>
+<!-- Hero Section -->
+<section class="relative h-screen min-h-[700px] flex items-center overflow-hidden">
+<div class="absolute inset-0 z-0">
+<img class="w-full h-full object-cover hero-ambient" data-alt="A sun-drenched coastal scene at golden hour with a luxury wellness aesthetic. The lighting is warm and ethereal, hitting the textures of natural stone and soft linen fabrics. In the center, a woman with a radiant, sun-kissed tan rests gracefully, embodying a sense of quiet luxury and Mediterranean elegance. The color palette is composed of soft terracotta, cream, and muted olive tones." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAVG9EIyuYcchAv7dHNFSbwemeR5I_1ub-CyXJLV9V75HiFc8jYyozlCpLiQQQQwBotAWR-r9-zSgvDV9Z76xbE8UfiEbjjQk3OTfdP_3tuqQXGq4dhfSZlFZYk4YjReUooqb5MQP9z-0xv23A6s7JA91shn51MQKrJGRlqD7KVbMT_SjkZozIr_iASeaJDKKLEuSNsfejzUjYMd4ZQl5iQBSLlQVjOGBuSgE9NQQPBQtYiJK5lh6v-6rsnrSLSU88IxjS2cLJO2qg"/>
+<div class="absolute inset-0 bg-black/10"></div>
+</div>
+<div class="relative z-10 px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto text-white">
+<div class="max-w-3xl">
+<span class="font-label-caps text-label-caps uppercase tracking-[0.3em] mb-6 block reveal">The Art of the Glow</span>
+<h1 class="font-display-lg text-headline-lg md:text-display-lg mb-8 reveal" style="transition-delay: 200ms;">Effortless Bronze. <br/><i class="font-headline-lg italic">Italian Sun.</i></h1>
+<p class="font-body-lg text-body-lg mb-12 max-w-lg opacity-90 reveal" style="transition-delay: 400ms;">Experience a bespoke spray tan inspired by the golden shores of the Mediterranean. Sophisticated, streak-free, and perfectly you.</p>
+<div class="flex flex-wrap gap-gutter reveal" style="transition-delay: 600ms;">
+<button class="bg-primary text-on-primary px-10 py-5 font-label-caps text-label-caps uppercase tracking-widest hover:brightness-110 active:scale-95 transition-all">Reserve Appointment</button>
+<button class="border border-white/50 text-white px-10 py-5 font-label-caps text-label-caps uppercase tracking-widest hover:bg-white hover:text-on-surface transition-all">View Menu</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Trust Badges -->
+<section class="bg-surface-container-low py-12 relative z-20">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto">
+<div class="flex flex-wrap justify-between gap-8 md:gap-gutter opacity-60 reveal">
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary">star</span>
+<span class="font-label-caps text-label-caps uppercase">Five Star Rated</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary">shield</span>
+<span class="font-label-caps text-label-caps uppercase">Secure Booking</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary">verified</span>
+<span class="font-label-caps text-label-caps uppercase">Certified Artist</span>
+</div>
+<div class="flex items-center gap-3">
+<span class="material-symbols-outlined text-primary">directions_car</span>
+<span class="font-label-caps text-label-caps uppercase">Mobile + Studio</span>
+</div>
+</div>
+</div>
+</section>
+<!-- Services Section -->
+<section class="py-section-gap overflow-hidden" id="services">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto">
+<div class="grid grid-cols-12 gap-gutter items-center mb-section-gap">
+<div class="col-span-12 md:col-span-5 order-2 md:order-1 reveal">
+<span class="font-label-caps text-label-caps text-primary uppercase mb-4 block">01 / Signature</span>
+<h2 class="font-headline-lg text-headline-lg mb-6">The Solis Glow</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-8">Our proprietary solution mimics the natural tan developed after a week in Capri. Deeply hydrating and perfectly balanced for all skin tones.</p>
+<ul class="space-y-4 mb-10">
+<li class="flex items-center gap-4 text-on-surface-variant group"><span class="w-1.5 h-1.5 rounded-full bg-primary-container transition-transform group-hover:scale-150"></span> Personalized consultation</li>
+<li class="flex items-center gap-4 text-on-surface-variant group"><span class="w-1.5 h-1.5 rounded-full bg-primary-container transition-transform group-hover:scale-150"></span> Pre-tan pH balancing mist</li>
+<li class="flex items-center gap-4 text-on-surface-variant group"><span class="w-1.5 h-1.5 rounded-full bg-primary-container transition-transform group-hover:scale-150"></span> Hand-applied detail work</li>
+</ul>
+<button class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-primary pb-2 hover:opacity-70 transition-all hover:pl-2">Explore Service</button>
+</div>
+<div class="col-span-12 md:col-span-6 md:col-start-7 order-1 md:order-2 mb-10 md:mb-0">
+<div class="aspect-[4/5] bg-surface-container-high overflow-hidden image-reveal-clip relative parallax-container">
+<img class="w-full h-full object-cover parallax-image" data-alt="Close up photography of radiant skin with a flawless spray tan finish. The model is draped in soft cream linen against a minimalist backdrop of warm plaster walls. Soft, diffused lighting highlights the even texture and natural bronze tone of the tan, reflecting a clean and modern skincare brand aesthetic with terracotta undertones." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAFLIx0RnvOht9Z2oWy4kcYbr7vrFVkPsDyR2f7-NNj50NHovj0JG8WP69sFg_iKxaC78JOS6AO4NWdq-U2ivaUtQQQVSSb2oP8wF7OhaJI8Pa7eHAdfDe2awqmQKuRov7Q21CRai6_GXFohdZS13liZ4GwGkCXwPXV8QQSNvPjzzrYAKOFXD_tJeJ_GduxXbIpfba9ds50ptITVX9BHEoSs0HkU5M4VBdlHqP-z6fy7m6BxpOO8PBnK7MrY9VvhzNx19HOwQWjN-8"/>
+</div>
+</div>
+</div>
+<div class="grid grid-cols-12 gap-gutter items-center mb-section-gap">
+<div class="col-span-12 md:col-span-6 mb-10 md:mb-0">
+<div class="aspect-[16/9] bg-surface-container-high overflow-hidden image-reveal-clip relative parallax-container">
+<img class="w-full h-full object-cover parallax-image" data-alt="An editorial shot of a luxury tanning studio interior. Minimalist design with arched doorways, natural wood accents, and a soft neutral color palette of off-white and muted sand. Large tropical plants add a touch of olive green. The lighting is soft and airy, creating a serene and premium atmosphere reminiscent of a high-end Italian apothecary." src="https://lh3.googleusercontent.com/aida-public/AB6AXuABoq1RKMDeVBWkL0Ymg9fRiIRfWprX78lPnZvYS5J2_7Z8nJmfsWeUznGL44dtKADEODmpKgOkwhdkO6bSUykMUpn3tf3gCclz5gBWEOuSOLHEozpJpcqbWSCZodn7lL_lFNkRSOs7BM2W6sZa45lnzqPEdSbPk1IJmFzpoukjni2iOvCv3kwbgM3jQkN39YrvGmpClFBw70BswMWwdC-_sZPpEZUAsSnfUdCsN3vAKkUb1am_uURDQDnwpIFMJUVotqQrz3Iv27I"/>
+</div>
+</div>
+<div class="col-span-12 md:col-span-5 md:col-start-8 reveal">
+<span class="font-label-caps text-label-caps text-primary uppercase mb-4 block">02 / Concierge</span>
+<h2 class="font-headline-lg text-headline-lg mb-6">In-Home Luxury</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-8">We bring the Riviera to you. Our mobile artists arrive with a fully self-contained setup, ensuring your space remains pristine while you achieve the perfect bronze.</p>
+<button class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-primary pb-2 hover:opacity-70 transition-all hover:pl-2">Book Concierge</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Bundles Pricing Section -->
+<section class="py-section-gap bg-surface-container-lowest" id="bundles">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto text-center">
+<span class="font-label-caps text-label-caps text-primary uppercase mb-4 block reveal">The Collection</span>
+<h2 class="font-headline-lg text-headline-lg mb-16 reveal">Glow Bundles</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+<!-- Bundle 1 -->
+<div class="p-12 border border-outline-variant bg-surface reveal flex flex-col items-center hover-lift" style="transition-delay: 100ms;">
+<h3 class="font-headline-md text-headline-md mb-2">Weekend Escape</h3>
+<p class="font-label-caps text-label-caps text-on-surface-variant mb-8">Single Session</p>
+<div class="text-display-lg font-headline-lg text-primary mb-10">$65</div>
+<ul class="text-on-surface-variant space-y-4 mb-12 flex-grow">
+<li>Full Body Tans</li>
+<li>Personalized Shade</li>
+<li>Post-Tan Hydration</li>
+</ul>
+<button class="w-full border border-primary text-primary py-4 font-label-caps text-label-caps uppercase tracking-widest hover:bg-primary hover:text-on-primary transition-all active:scale-[0.98]">Select</button>
+</div>
+<!-- Bundle 2 - Featured -->
+<div class="p-12 bg-primary-container text-on-primary-container ambient-shadow scale-105 z-10 reveal flex flex-col items-center hover-lift" style="transition-delay: 200ms;">
+<span class="bg-on-primary-container text-white px-4 py-1 text-[10px] font-label-caps uppercase tracking-[0.2em] mb-4">Most Loved</span>
+<h3 class="font-headline-md text-headline-md mb-2">Eternal Summer</h3>
+<p class="font-label-caps text-label-caps opacity-80 mb-8">3 Sessions / Monthly</p>
+<div class="text-display-lg font-headline-lg mb-10">$165</div>
+<ul class="opacity-90 space-y-4 mb-12 flex-grow">
+<li>Priority Booking</li>
+<li>Complimentary Exfoliator</li>
+<li>Save $30 per month</li>
+</ul>
+<button class="w-full bg-on-primary-container text-white py-4 font-label-caps text-label-caps uppercase tracking-widest hover:brightness-110 transition-all active:scale-[0.98]">Select</button>
+</div>
+<!-- Bundle 3 -->
+<div class="p-12 border border-outline-variant bg-surface reveal flex flex-col items-center hover-lift" style="transition-delay: 300ms;">
+<h3 class="font-headline-md text-headline-md mb-2">Riviera Glow</h3>
+<p class="font-label-caps text-label-caps text-on-surface-variant mb-8">5 Session Pack</p>
+<div class="text-display-lg font-headline-lg text-primary mb-10">$250</div>
+<ul class="text-on-surface-variant space-y-4 mb-12 flex-grow">
+<li>Full Body Customization</li>
+<li>Shareable with Friends</li>
+<li>Never Expires</li>
+</ul>
+<button class="w-full border border-primary text-primary py-4 font-label-caps text-label-caps uppercase tracking-widest hover:bg-primary hover:text-on-primary transition-all active:scale-[0.98]">Select</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Before/After Slider Section -->
+<section class="py-section-gap overflow-hidden bg-surface" id="results">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-gutter items-center">
+<div class="reveal">
+<h2 class="font-headline-lg text-headline-lg mb-8">The Transformation</h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant mb-10">We believe in enhancement, not alteration. Our technique works with your natural undertones to create a believable, sun-drenched finish that fades evenly like a real tan.</p>
+<div class="flex items-center gap-6">
+<div class="text-center group">
+<div class="text-headline-md font-headline-md text-primary transition-transform group-hover:scale-110">100%</div>
+<div class="font-label-caps text-label-caps uppercase text-on-surface-variant mt-2">Organic Base</div>
+</div>
+<div class="w-[1px] h-12 bg-outline-variant"></div>
+<div class="text-center group">
+<div class="text-headline-md font-headline-md text-primary transition-transform group-hover:scale-110">0%</div>
+<div class="font-label-caps text-label-caps uppercase text-on-surface-variant mt-2">Orange Tones</div>
+</div>
+</div>
+</div>
+<div class="reveal mt-12 md:mt-0" style="transition-delay: 200ms;">
+<div class="before-after-slider ambient-shadow group rounded-xl">
+<!-- After Image (Bottom) -->
+<div class="absolute inset-0">
+<img alt="After" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBoQGlwCYn4hOK1lvAxc7FdOT3CnR-GiLC4IFD8RnsASAy14UnwJ4ym_zLsSBnB-oiJey6WWBeb6t68-QzihJd-kg7_mtmuZiDKf9DmWQuWqeq_12_xmwzGb-oXdaJPZ9LRy9i9IAe8LxnK1b_Bs5Tit0xj-HsxXfTl7LEH0AJcHh0_1FlwccnNa_QbYQqKqkjY1Zva2BhtAcCkrM1ntJ6IECWAMRalZzwfiKnScoYrifkuzL-zgPDYzPMrBPcMjAAh5EcuVxvcYkA"/>
+<div class="absolute bottom-4 right-4 bg-white/20 backdrop-blur-md px-4 py-2 font-label-caps text-label-caps text-white uppercase tracking-widest">After</div>
+</div>
+<!-- Before Image (Top Clip) -->
+<div class="absolute inset-0 overflow-hidden" id="before-image-clip" style="width: 50%;">
+<img alt="Before" class="w-[200%] h-full object-cover max-w-none" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBOQ2jhElHL9awolmu_TiLC_u2qHGjA7PIe1qgmDLR8eHFqeyqgg14IzQpKnIgjkBnr3aqNVfUk01-wcNt8SNqZXGbfLCxFNQOU2VgIyOP3igGqwkiGnRrTjRC30SD69ArtLliqIKAgjmSPkK7Gr6VbM07yZz4HH-WFBQFmFEOWRY2DX_kB2dAKHFiyH2KpscqV7c1pPW8HKA4N62R36TlWTwEaaSE23F6mDD4EJhWb1qjz0vx31qe_QxLoa5VI2ij00jT5KRABHpk"/>
+<div class="absolute bottom-4 left-4 bg-white/20 backdrop-blur-md px-4 py-2 font-label-caps text-label-caps text-white uppercase tracking-widest">Before</div>
+</div>
+<!-- Slider Handle -->
+<div class="slider-handle" id="slider-handle" style="left: 50%;">
+<div class="slider-circle">
+<span class="material-symbols-outlined text-white">unfold_more</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Testimonials -->
+<section class="py-section-gap bg-surface-container-low">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto text-center">
+<div class="max-w-4xl mx-auto">
+<span class="material-symbols-outlined text-primary text-4xl mb-8 reveal">format_quote</span>
+<h3 class="font-headline-lg text-headline-lg italic mb-12 reveal">"The most natural tan I have ever received. It truly felt like I had just returned from a week in Positano. The scent is subtle and the fade is perfectly even."</h3>
+<p class="font-label-caps text-label-caps text-primary uppercase tracking-[0.3em] reveal">Isabella Rossi — Beauty Editor</p>
+</div>
+</div>
+</section>
+<!-- FAQ Section -->
+<section class="py-section-gap">
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter">
+<div class="md:col-span-4 reveal">
+<h2 class="font-headline-lg text-headline-lg mb-6">The Ritual</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">Everything you need to know about preparing for and maintaining your coastal glow.</p>
+</div>
+<div class="md:col-span-7 md:col-start-6 space-y-6">
+<div class="border-b border-outline-variant pb-6 faq-item reveal">
+<button class="flex justify-between items-center w-full text-left font-headline-md text-headline-md text-on-surface hover:text-primary transition-colors group">
+                            How should I prepare?
+                            <span class="material-symbols-outlined transition-transform duration-500 group-hover:rotate-180">expand_more</span>
+</button>
+<div class="accordion-content text-on-surface-variant font-body-md leading-relaxed">
+                            Exfoliate 24 hours prior and arrive with clean skin—no lotions, oils, or perfumes. Shave or wax at least 24 hours before your appointment.
+                        </div>
+</div>
+<div class="border-b border-outline-variant pb-6 faq-item reveal" style="transition-delay: 100ms;">
+<button class="flex justify-between items-center w-full text-left font-headline-md text-headline-md text-on-surface hover:text-primary transition-colors group">
+                            How long does it last?
+                            <span class="material-symbols-outlined transition-transform duration-500 group-hover:rotate-180">expand_more</span>
+</button>
+<div class="accordion-content text-on-surface-variant font-body-md leading-relaxed">
+                            With proper hydration, our tan typically lasts 7 to 10 days. Using our recommended extender can prolong the glow even further.
+                        </div>
+</div>
+<div class="border-b border-outline-variant pb-6 faq-item reveal" style="transition-delay: 200ms;">
+<button class="flex justify-between items-center w-full text-left font-headline-md text-headline-md text-on-surface hover:text-primary transition-colors group">
+                            Will I turn orange?
+                            <span class="material-symbols-outlined transition-transform duration-500 group-hover:rotate-180">expand_more</span>
+</button>
+<div class="accordion-content text-on-surface-variant font-body-md leading-relaxed">
+                            Never. Our solutions are formulated with violet and olive undertones specifically designed to neutralize any orange pigments for a natural bronze.
+                        </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- CTA Strip -->
+<section class="py-24 bg-primary text-on-primary relative overflow-hidden group">
+<div class="absolute inset-0 bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
+<div class="px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto flex flex-col md:flex-row justify-between items-center gap-gutter relative z-10">
+<h2 class="font-headline-lg text-headline-lg text-center md:text-left reveal">Ready For Your Glow?</h2>
+<button class="bg-surface text-primary px-12 py-6 font-label-caps text-label-caps uppercase tracking-widest hover:bg-surface-container-high transition-all active:scale-95 reveal">Book Your Session</button>
+</div>
+</section>
+</main>
+<footer class="bg-surface-container-low dark:bg-surface-dim w-full py-section-gap">
+<div class="flex flex-col items-center gap-gutter px-margin-mobile md:px-margin-desktop w-full max-w-container-max mx-auto text-center">
+<div class="font-headline-md text-headline-md text-primary tracking-tighter uppercase mb-4 reveal">AURA SOLIS</div>
+<p class="font-body-md text-body-md text-on-surface-variant max-w-md mb-8 reveal">Embracing the sun, sustainably and beautifully. Our studio is located in the heart of the design district.</p>
+<div class="flex flex-wrap justify-center gap-10 mb-12 reveal">
+<a class="font-label-caps text-label-caps uppercase text-on-secondary-container hover:text-primary transition-colors" href="#">Privacy</a>
+<a class="font-label-caps text-label-caps uppercase text-on-secondary-container hover:text-primary transition-colors" href="#">Terms</a>
+<a class="font-label-caps text-label-caps uppercase text-on-secondary-container hover:text-primary transition-colors" href="#">Shipping</a>
+<a class="font-label-caps text-label-caps uppercase text-on-secondary-container hover:text-primary transition-colors" href="#">Sustainability</a>
+</div>
+<div class="flex gap-6 mb-12 reveal">
+<a class="text-primary hover:-translate-y-1 transition-transform" href="#"><span class="material-symbols-outlined">camera_enhance</span></a>
+<a class="text-primary hover:-translate-y-1 transition-transform" href="#"><span class="material-symbols-outlined">brand_awareness</span></a>
+<a class="text-primary hover:-translate-y-1 transition-transform" href="#"><span class="material-symbols-outlined">local_post_office</span></a>
+</div>
+<div class="w-full h-[1px] bg-outline-variant mb-8 reveal"></div>
+<p class="font-label-caps text-[10px] tracking-widest opacity-60 reveal">© 2024 AURA SOLIS. INSPIRED BY THE ITALIAN SUN.</p>
+</div>
+</footer>
+<script>
+    // Scroll Reveal Intersection Observer
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+
+    const revealObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('active');
+            }
+        });
+    }, observerOptions);
+
+    document.querySelectorAll('.reveal, .image-reveal-clip').forEach(el => revealObserver.observe(el));
+
+    // Parallax Scroll Effect
+    window.addEventListener('scroll', () => {
+        const scrolled = window.pageYOffset;
+        document.querySelectorAll('.parallax-image').forEach(img => {
+            const rect = img.parentElement.getBoundingClientRect();
+            const offset = rect.top + scrolled;
+            const speed = 0.15;
+            const yPos = (scrolled - offset) * speed;
+            img.style.transform = `translateY(${yPos}px) scale(1.15)`;
+        });
+    });
+
+    // Before/After Slider Logic
+    const slider = document.querySelector('.before-after-slider');
+    const beforeClip = document.getElementById('before-image-clip');
+    const handle = document.getElementById('slider-handle');
+
+    const moveSlider = (x) => {
+        let rect = slider.getBoundingClientRect();
+        let position = ((x - rect.left) / rect.width) * 100;
+        if (position < 0) position = 0;
+        if (position > 100) position = 100;
+        beforeClip.style.width = position + '%';
+        handle.style.left = position + '%';
+    };
+
+    slider.addEventListener('mousemove', (e) => {
+        moveSlider(e.pageX);
+    });
+
+    slider.addEventListener('touchmove', (e) => {
+        moveSlider(e.touches[0].pageX);
+    });
+
+    // FAQ Accordion with Smooth Transitions
+    document.querySelectorAll('.faq-item button').forEach(button => {
+        button.addEventListener('click', () => {
+            const content = button.nextElementSibling;
+            const icon = button.querySelector('.material-symbols-outlined');
+            const isActive = content.classList.contains('active');
+            
+            // Close all others
+            document.querySelectorAll('.accordion-content').forEach(c => {
+                c.classList.remove('active');
+                c.previousElementSibling.querySelector('.material-symbols-outlined').style.transform = 'rotate(0deg)';
+            });
+            
+            if (!isActive) {
+                content.classList.add('active');
+                icon.style.transform = 'rotate(180deg)';
+            }
+        });
+    });
+
+    // Initial check for parallax on load
+    window.dispatchEvent(new Event('scroll'));
+</script>
+</body></html>
